@@ -1,6 +1,0 @@
-{
-    "parent": "serider:block/chair",
-	"textures": {
-        "texture": "serider:block/crimson_chair"
-	}
-}
