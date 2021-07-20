@@ -1,0 +1,6 @@
+{
+    "parent": "serider:block/chair",
+	"textures": {
+        "texture": "serider:block/oak_chair"
+	}
+}
