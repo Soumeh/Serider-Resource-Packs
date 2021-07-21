@@ -5,13 +5,27 @@
   </p>
 
   <p align="center">
-    <a href="https://github.com/Serider-Minigames/Resource-Packs/releases/latest"><img alt="Latest Release" src="https://img.shields.io/github/v/release/Serider-Minigames/Resource-Packs?include_prereleases"></img></a>
+    <a href="https://github.com/Serider-Minigames/Resource-Packs/releases/latest">
+      <img alt="Latest Release" src="https://img.shields.io/github/v/release/Serider-Minigames/Resource-Packs?include_prereleases">
+    </a>
+    <a href="https://gitlocalize.com/repo/6274">
+      <img src="https://gitlocalize.com/repo/6274/whole_project/badge.svg" />
+    </a>
   </p>
 </h1>
 
 ### All of the resources needed to play on **Serider Minigames** are compiled into easily sharable `.zip` files, for quick updates and quicker implementation.
 
 > **If you have already read this, move over [here](READMETOO.md "Work In Progress")!**
+
+## ![Translate](translate.png)
+
+Want to help us translate the resource packs into a language that you know?
+We Have a GitLocalize page [here](https://gitlocalize.com/repo/6274) that you can use to easily translate the resource packs.
+
+> Confused by the `%s` symbol? It's just a magic symbol that allows us to put specific data into the translation.
+
+Can't see the language that you want to translate to on the list? Create a [new issue](https://github.com/Serider-Minigames/Resource-Packs/issues/new?assignees=&labels=Translation+Request&template=translation-request.md&title=Add+%28language%29+as+a+new+language) or contact us on Discord.
 
 ## ![How To Use](how_to_use.png)
 
