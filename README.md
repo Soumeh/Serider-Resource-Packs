@@ -69,4 +69,10 @@ If you need any help, contact Heapons or Soumeh.
 
 > **Want to add your own artstyle? Put any of your textures inside of a new folder named after the style.**
 
-###### Written by ![](https://minotar.net/helm/Soumeh/16) [**Soumeh**](https://github.com/Soumeh), prettified by ![](https://minotar.net/helm/Heapons/16) [**Heapons**](https://github.com/Heapons), pimped out by ![](https://minotar.net/helm/Soumeh/16) [**Soumeh**](https://github.com/Soumeh).
+# **Third-Party Notice**
+- [Negative Space Font](https://github.com/AmberWat/NegativeSpaceFont)
+> Facilitates the making of custom gui.
+- [FL Studio](https://www.image-line.com/fl-studio)
+> All of our music/samples have been produced with this DAW.
+> 
+###### Written by ![](https://minotar.net/helm/Soumeh/16) [**Soumeh**](https://github.com/Soumeh) & ![](https://minotar.net/helm/Heapons/16) [**Heapons**](https://github.com/Heapons); prettified by ![](https://minotar.net/helm/Heapons/16) [**Heapons**](https://github.com/Heapons); pimped out by ![](https://minotar.net/helm/Soumeh/16) [**Soumeh**](https://github.com/Soumeh).
