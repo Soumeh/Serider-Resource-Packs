@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "block/deepslate_tile_slab"
+    },
+    "type=double,waterlogged=false": {
+      "model": "block/missingno"
+    },
+    "type=double,waterlogged=true": {
+      "model": "block/missingno"
+    },
+    "type=top": {
+      "model": "block/deepslate_tile_slab_top"
+    }
+  }
+}

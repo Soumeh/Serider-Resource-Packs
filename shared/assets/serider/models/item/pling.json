@@ -1,0 +1,6 @@
+{
+    "parent": "serider:generated",
+    "textures": {
+      "layer0": "serider:item/pling" 
+    }
+}

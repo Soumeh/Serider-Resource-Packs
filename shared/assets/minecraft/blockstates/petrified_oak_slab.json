@@ -1,0 +1,16 @@
+{
+    "variants": {
+      "type=bottom": {
+        "model": "block/barrier"
+      },
+      "type=double,waterlogged=false": {
+        "model": "block/barrier"
+      },
+      "type=double,waterlogged=true": {
+        "model": "block/missingno"
+      },
+      "type=top": {
+        "model": "block/barrier"
+      }
+    }
+  }

@@ -1,0 +1,7 @@
+{
+	"parent": "entity/player/left_arm",
+	"textures": {
+		"skin": "entity/steve",
+		"particle": "block/soul_sand"
+	}
+}

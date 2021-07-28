@@ -1,0 +1,7 @@
+{
+    "parent": "serider:generated",
+    "textures": {
+      "layer0": "item/end_crystal",
+      "layer1": "item/glass_overlay"
+    }
+  }

@@ -1,0 +1,6 @@
+{
+    "parent": "serider:shield",
+    "textures": {
+      "layer0": "serider:item/emerald_shield" 
+    }
+}

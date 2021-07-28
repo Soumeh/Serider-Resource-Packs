@@ -1,0 +1,6 @@
+{
+    "parent": "serider:cube_all",
+    "textures": {
+        "all": "serider:block/chiseled_polished_mariposite"
+    }
+}

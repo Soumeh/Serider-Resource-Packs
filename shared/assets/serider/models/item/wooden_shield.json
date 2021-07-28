@@ -1,0 +1,6 @@
+{
+  "parent": "serider:shield",
+  "textures": {
+    "layer0": "serider:item/wooden_shield" 
+  }
+}

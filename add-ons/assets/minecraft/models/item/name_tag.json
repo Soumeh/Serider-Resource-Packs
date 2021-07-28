@@ -1,0 +1,6 @@
+{
+  "parent": "serider:tilted_generated",
+  "textures": {
+    "layer0": "item/name_tag"
+    }
+}

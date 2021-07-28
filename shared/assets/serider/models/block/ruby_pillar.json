@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_column",
+  "textures": {
+    "end": "serider:block/ruby_pillar_top",
+    "side": "serider:block/ruby_pillar_side"
+  }
+}

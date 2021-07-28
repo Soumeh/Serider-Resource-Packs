@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "block/sandstone_slab"
+    },
+    "type=double,waterlogged=false": {
+      "model": "serider:block/polished_sandstone"
+    },
+    "type=double,waterlogged=true": {
+      "model": "block/missingno"
+    },
+    "type=top": {
+      "model": "block/sandstone_slab_top"
+    }
+  }
+}

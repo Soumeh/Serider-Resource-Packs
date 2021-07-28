@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "block/acacia_slab"
+    },
+    "type=double,waterlogged=false": {
+      "model": "serider:block/acacia_crate"
+    },
+    "type=double,waterlogged=true": {
+      "model": "block/missingno"
+    },
+    "type=top": {
+      "model": "block/acacia_slab_top"
+    }
+  }
+}

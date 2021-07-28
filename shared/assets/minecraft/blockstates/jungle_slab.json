@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "block/jungle_slab"
+    },
+    "type=double,waterlogged=false": {
+      "model": "serider:block/jungle_crate"
+    },
+    "type=double,waterlogged=true": {
+      "model": "block/missingno"
+    },
+    "type=top": {
+      "model": "block/jungle_slab_top"
+    }
+  }
+}

@@ -1,76 +1,76 @@
 {
     "music_disc.shulk": {
         "sounds": [
-            "serider:music_disc/jamies_name/shulk"
+            "serider:records/jamies_name/shulk"
             ]
     },
     "music_disc.pillaged": {
         "sounds": [
-        "serider:music_disc/jamies_name/pillaged"
+        "serider:records/jamies_name/pillaged"
             ]
     },
     "music_disc.18": {
         "sounds": [
-        "serider:music_disc/jamies_name/18"
+        "serider:records/jamies_name/18"
             ]
     },
     "music_disc.jamies_name": {
         "sounds": [
-        "serider:music_disc/jamies_name/shulk",
-    "serider:music_disc/jamies_name/pillaged",
-    "serider:music_disc/jamies_name/18"
+        "serider:records/jamies_name/shulk",
+        "serider:records/jamies_name/pillaged",
+        "serider:records/jamies_name/18"
             ]
     },
     "original_soundtrack": {
         "sounds": [
-        "serider:music_disc/jamies_name/shulk",
-    "serider:music_disc/jamies_name/pillaged",
-    "serider:music_disc/jamies_name/18"
+        "serider:records/jamies_name/shulk",
+        "serider:records/jamies_name/pillaged",
+        "serider:records/jamies_name/18"
             ]
     },
     "block.note_block.celesta": {
         "sounds": [
-        "serider:instrument/celesta"
+        "serider:note/celesta"
             ]
     },
     "block.note_block.chip_kick": {
         "sounds": [
-        "serider:instrument/chip_kick"
+        "serider:note/chip_kick"
             ]
     },
     "block.note_block.chip_snare": {
         "sounds": [
-        "serider:instrument/chip_snare"
+        "serider:note/chip_snare"
             ]
     },
     "block.note_block.dong": {
         "sounds": [
-        "serider:instrument/dong"
+        "serider:note/dong"
             ]
     },
     "block.note_block.fretless_bass": {
         "sounds": [
-        "serider:instrument/fretless_bass"
+        "serider:note/fretless_bass"
             ]
     },
     "block.note_block.overdriven_guitar": {
         "sounds": [
-        "serider:instrument/overdriven_guitar"
+        "serider:note/overdriven_guitar"
             ]
     },
     "block.note_block.bit_1/4": {
         "sounds": [
-        "serider:instrument/square_1-4"
+        "serider:note/square_1-4"
             ]
     },
     "block.note_block.bit_1/8": {
         "sounds": [
-        "serider:instrument/square_1-8"
+        "serider:note/square_1-8"
             ]
     },
     "block.note_block.triangle": {
         "sounds": [
-        "serider:instrument/triangle"
+        "serider:note/triangle"
             ]
     }
 }

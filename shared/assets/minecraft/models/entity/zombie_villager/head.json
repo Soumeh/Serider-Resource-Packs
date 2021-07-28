@@ -1,0 +1,75 @@
+{
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "entity/zombie/zombie_villager",
+		"particle": "entity/zombie/zombie_villager"
+	},
+	"elements": [
+		{
+			"name": "head",
+			"from": [4, 0, 4],
+			"to": [12, 10, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 5, 8]},
+			"faces": {
+				"north": {"uv": [2, 10, 4, 12.5], "texture": "#0"},
+				"east": {"uv": [0, 10, 2, 12.5], "texture": "#0"},
+				"south": {"uv": [6, 10, 8, 12.5], "texture": "#0"},
+				"west": {"uv": [4, 10, 6, 12.5], "texture": "#0"},
+				"up": {"uv": [2, 8, 4, 10], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [4, 8, 6, 10], "texture": "#0"}
+			}
+		},
+		{
+			"name": "nose",
+			"from": [7, -1, 2.5],
+			"to": [9, 3, 4.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [15, 7, 10.5]},
+			"faces": {
+				"north": {"uv": [6.5, 8.5, 7, 9.5], "texture": "#0"},
+				"east": {"uv": [6, 8.5, 6.5, 9.5], "texture": "#0"},
+				"south": {"uv": [7.5, 8.5, 8, 9.5], "texture": "#0"},
+				"west": {"uv": [7, 8.5, 7.5, 9.5], "texture": "#0"},
+				"up": {"uv": [6.5, 8, 7, 8.5], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [7, 8, 7.5, 8.5], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [60, 45, 0],
+			"translation": [0, 2, 1],
+			"scale": [0.375, 0.375, 0.375]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [60, 45, 0],
+			"translation": [0, 2, 1],
+			"scale": [0.375, 0.375, 0.375]
+		},
+		"firstperson_righthand": {
+			"rotation": [-13, 122.5, 0],
+			"translation": [0, 2.75, 0],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-13, 122.5, 0],
+			"translation": [0, 2.75, 0],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"ground": {
+			"translation": [0, 2, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"gui": {
+			"rotation": [30, 225, 0],
+			"translation": [0, 3, 0],
+			"scale": [0.925, 0.925, 0.925]
+		},
+		"head": {
+			"translation": [0, 6, 0],
+			"scale": [1.601, 1.601, 1.601]
+		},
+		"fixed": {
+			"translation": [0, 3, 0]
+		}
+	}
+}

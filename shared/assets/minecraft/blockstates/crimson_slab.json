@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "block/crimson_slab"
+    },
+    "type=double,waterlogged=false": {
+      "model": "serider:block/crimson_crate"
+    },
+    "type=double,waterlogged=true": {
+      "model": "block/missingno"
+    },
+    "type=top": {
+      "model": "block/crimson_slab_top"
+    }
+  }
+}

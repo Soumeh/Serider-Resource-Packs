@@ -1,0 +1,1651 @@
+{
+    "variants": {
+        "instrument=banjo,powered=false,note=0" : {
+            "model": "block/missingno"
+        },"instrument=banjo,powered=false,note=1" : {
+            "model": "block/missingno"
+        },"instrument=banjo,powered=false,note=2" : {
+            "model": "block/missingno"
+        },"instrument=banjo,powered=false,note=3" : {
+            "model": "block/missingno"
+        },"instrument=banjo,powered=false,note=4" : {
+            "model": "block/missingno"
+        },"instrument=banjo,powered=false,note=5" : {
+            "model": "block/missingno"
+        },"instrument=banjo,powered=false,note=6" : {
+            "model": "block/missingno"
+        },"instrument=banjo,powered=false,note=7" : {
+            "model": "block/missingno"
+        },"instrument=banjo,powered=false,note=8" : {
+            "model": "block/missingno"
+        },"instrument=banjo,powered=false,note=9" : {
+            "model": "block/missingno"
+        },"instrument=banjo,powered=false,note=10" : {
+            "model": "block/missingno"
+        },"instrument=banjo,powered=false,note=11" : {
+            "model": "block/missingno"
+        },"instrument=banjo,powered=false,note=12" : {
+            "model": "block/missingno"
+        },"instrument=banjo,powered=false,note=13" : {
+            "model": "block/missingno"
+        },"instrument=banjo,powered=false,note=14" : {
+            "model": "block/missingno"
+        },"instrument=banjo,powered=false,note=15" : {
+            "model": "block/missingno"
+        },"instrument=banjo,powered=false,note=16" : {
+            "model": "block/missingno"
+        },"instrument=banjo,powered=false,note=17" : {
+            "model": "block/missingno"
+        },"instrument=banjo,powered=false,note=18" : {
+            "model": "block/missingno"
+        },"instrument=banjo,powered=false,note=19" : {
+            "model": "block/missingno"
+        },"instrument=banjo,powered=false,note=20" : {
+            "model": "block/missingno"
+        },"instrument=banjo,powered=false,note=21" : {
+            "model": "block/missingno"
+        },"instrument=banjo,powered=false,note=22" : {
+            "model": "block/missingno"
+        },"instrument=banjo,powered=false,note=23" : {
+            "model": "block/missingno"
+        },"instrument=banjo,powered=false,note=24" : {
+            "model": "block/missingno"
+        },
+        "instrument=banjo,powered=true,note=0" : {
+            "model": "block/missingno"
+        },"instrument=banjo,powered=true,note=1" : {
+            "model": "block/missingno"
+        },"instrument=banjo,powered=true,note=2" : {
+            "model": "block/missingno"
+        },"instrument=banjo,powered=true,note=3" : {
+            "model": "block/missingno"
+        },"instrument=banjo,powered=true,note=4" : {
+            "model": "block/missingno"
+        },"instrument=banjo,powered=true,note=5" : {
+            "model": "block/missingno"
+        },"instrument=banjo,powered=true,note=6" : {
+            "model": "block/missingno"
+        },"instrument=banjo,powered=true,note=7" : {
+            "model": "block/missingno"
+        },"instrument=banjo,powered=true,note=8" : {
+            "model": "block/missingno"
+        },"instrument=banjo,powered=true,note=9" : {
+            "model": "block/missingno"
+        },"instrument=banjo,powered=true,note=10" : {
+            "model": "block/missingno"
+        },"instrument=banjo,powered=true,note=11" : {
+            "model": "block/missingno"
+        },"instrument=banjo,powered=true,note=12" : {
+            "model": "block/missingno"
+        },"instrument=banjo,powered=true,note=13" : {
+            "model": "block/missingno"
+        },"instrument=banjo,powered=true,note=14" : {
+            "model": "block/missingno"
+        },"instrument=banjo,powered=true,note=15" : {
+            "model": "block/missingno"
+        },"instrument=banjo,powered=true,note=16" : {
+            "model": "block/missingno"
+        },"instrument=banjo,powered=true,note=17" : {
+            "model": "block/missingno"
+        },"instrument=banjo,powered=true,note=18" : {
+            "model": "block/missingno"
+        },"instrument=banjo,powered=true,note=19" : {
+            "model": "block/missingno"
+        },"instrument=banjo,powered=true,note=20" : {
+            "model": "block/missingno"
+        },"instrument=banjo,powered=true,note=21" : {
+            "model": "block/missingno"
+        },"instrument=banjo,powered=true,note=22" : {
+            "model": "block/missingno"
+        },"instrument=banjo,powered=true,note=23" : {
+            "model": "block/missingno"
+        },"instrument=banjo,powered=true,note=24" : {
+            "model": "block/missingno"
+        },
+        
+        "instrument=bassdrum,powered=false,note=0" : {
+            "model": "block/missingno"
+        },"instrument=bassdrum,powered=false,note=1" : {
+            "model": "block/missingno"
+        },"instrument=bassdrum,powered=false,note=2" : {
+            "model": "block/missingno"
+        },"instrument=bassdrum,powered=false,note=3" : {
+            "model": "block/missingno"
+        },"instrument=bassdrum,powered=false,note=4" : {
+            "model": "block/missingno"
+        },"instrument=bassdrum,powered=false,note=5" : {
+            "model": "block/missingno"
+        },"instrument=bassdrum,powered=false,note=6" : {
+            "model": "block/missingno"
+        },"instrument=bassdrum,powered=false,note=7" : {
+            "model": "block/missingno"
+        },"instrument=bassdrum,powered=false,note=8" : {
+            "model": "block/missingno"
+        },"instrument=bassdrum,powered=false,note=9" : {
+            "model": "block/missingno"
+        },"instrument=bassdrum,powered=false,note=10" : {
+            "model": "block/missingno"
+        },"instrument=bassdrum,powered=false,note=11" : {
+            "model": "block/missingno"
+        },"instrument=bassdrum,powered=false,note=12" : {
+            "model": "block/missingno"
+        },"instrument=bassdrum,powered=false,note=13" : {
+            "model": "block/missingno"
+        },"instrument=bassdrum,powered=false,note=14" : {
+            "model": "block/missingno"
+        },"instrument=bassdrum,powered=false,note=15" : {
+            "model": "block/missingno"
+        },"instrument=bassdrum,powered=false,note=16" : {
+            "model": "block/missingno"
+        },"instrument=bassdrum,powered=false,note=17" : {
+            "model": "block/missingno"
+        },"instrument=bassdrum,powered=false,note=18" : {
+            "model": "block/missingno"
+        },"instrument=bassdrum,powered=false,note=19" : {
+            "model": "block/missingno"
+        },"instrument=bassdrum,powered=false,note=20" : {
+            "model": "block/missingno"
+        },"instrument=bassdrum,powered=false,note=21" : {
+            "model": "block/missingno"
+        },"instrument=bassdrum,powered=false,note=22" : {
+            "model": "block/missingno"
+        },"instrument=bassdrum,powered=false,note=23" : {
+            "model": "block/missingno"
+        },"instrument=bassdrum,powered=false,note=24" : {
+            "model": "block/missingno"
+        },
+        "instrument=bassdrum,powered=true,note=0" : {
+            "model": "block/missingno"
+        },"instrument=bassdrum,powered=true,note=1" : {
+            "model": "block/missingno"
+        },"instrument=bassdrum,powered=true,note=2" : {
+            "model": "block/missingno"
+        },"instrument=bassdrum,powered=true,note=3" : {
+            "model": "block/missingno"
+        },"instrument=bassdrum,powered=true,note=4" : {
+            "model": "block/missingno"
+        },"instrument=bassdrum,powered=true,note=5" : {
+            "model": "block/missingno"
+        },"instrument=bassdrum,powered=true,note=6" : {
+            "model": "block/missingno"
+        },"instrument=bassdrum,powered=true,note=7" : {
+            "model": "block/missingno"
+        },"instrument=bassdrum,powered=true,note=8" : {
+            "model": "block/missingno"
+        },"instrument=bassdrum,powered=true,note=9" : {
+            "model": "block/missingno"
+        },"instrument=bassdrum,powered=true,note=10" : {
+            "model": "block/missingno"
+        },"instrument=bassdrum,powered=true,note=11" : {
+            "model": "block/missingno"
+        },"instrument=bassdrum,powered=true,note=12" : {
+            "model": "block/missingno"
+        },"instrument=bassdrum,powered=true,note=13" : {
+            "model": "block/missingno"
+        },"instrument=bassdrum,powered=true,note=14" : {
+            "model": "block/missingno"
+        },"instrument=bassdrum,powered=true,note=15" : {
+            "model": "block/missingno"
+        },"instrument=bassdrum,powered=true,note=16" : {
+            "model": "block/missingno"
+        },"instrument=bassdrum,powered=true,note=17" : {
+            "model": "block/missingno"
+        },"instrument=bassdrum,powered=true,note=18" : {
+            "model": "block/missingno"
+        },"instrument=bassdrum,powered=true,note=19" : {
+            "model": "block/missingno"
+        },"instrument=bassdrum,powered=true,note=20" : {
+            "model": "block/missingno"
+        },"instrument=bassdrum,powered=true,note=21" : {
+            "model": "block/missingno"
+        },"instrument=bassdrum,powered=true,note=22" : {
+            "model": "block/missingno"
+        },"instrument=bassdrum,powered=true,note=23" : {
+            "model": "block/missingno"
+        },"instrument=bassdrum,powered=true,note=24" : {
+            "model": "block/missingno"
+        },
+        
+        "instrument=bass,powered=false,note=0" : {
+            "model": "block/missingno"
+        },"instrument=bass,powered=false,note=1" : {
+            "model": "block/missingno"
+        },"instrument=bass,powered=false,note=2" : {
+            "model": "block/missingno"
+        },"instrument=bass,powered=false,note=3" : {
+            "model": "block/missingno"
+        },"instrument=bass,powered=false,note=4" : {
+            "model": "block/missingno"
+        },"instrument=bass,powered=false,note=5" : {
+            "model": "block/missingno"
+        },"instrument=bass,powered=false,note=6" : {
+            "model": "block/missingno"
+        },"instrument=bass,powered=false,note=7" : {
+            "model": "block/missingno"
+        },"instrument=bass,powered=false,note=8" : {
+            "model": "block/missingno"
+        },"instrument=bass,powered=false,note=9" : {
+            "model": "block/missingno"
+        },"instrument=bass,powered=false,note=10" : {
+            "model": "block/missingno"
+        },"instrument=bass,powered=false,note=11" : {
+            "model": "block/missingno"
+        },"instrument=bass,powered=false,note=12" : {
+            "model": "block/missingno"
+        },"instrument=bass,powered=false,note=13" : {
+            "model": "block/missingno"
+        },"instrument=bass,powered=false,note=14" : {
+            "model": "block/missingno"
+        },"instrument=bass,powered=false,note=15" : {
+            "model": "block/missingno"
+        },"instrument=bass,powered=false,note=16" : {
+            "model": "block/missingno"
+        },"instrument=bass,powered=false,note=17" : {
+            "model": "block/missingno"
+        },"instrument=bass,powered=false,note=18" : {
+            "model": "block/missingno"
+        },"instrument=bass,powered=false,note=19" : {
+            "model": "block/missingno"
+        },"instrument=bass,powered=false,note=20" : {
+            "model": "block/missingno"
+        },"instrument=bass,powered=false,note=21" : {
+            "model": "block/missingno"
+        },"instrument=bass,powered=false,note=22" : {
+            "model": "block/missingno"
+        },"instrument=bass,powered=false,note=23" : {
+            "model": "block/missingno"
+        },"instrument=bass,powered=false,note=24" : {
+            "model": "block/missingno"
+        },
+        "instrument=bass,powered=true,note=0" : {
+            "model": "block/missingno"
+        },"instrument=bass,powered=true,note=1" : {
+            "model": "block/missingno"
+        },"instrument=bass,powered=true,note=2" : {
+            "model": "block/missingno"
+        },"instrument=bass,powered=true,note=3" : {
+            "model": "block/missingno"
+        },"instrument=bass,powered=true,note=4" : {
+            "model": "block/missingno"
+        },"instrument=bass,powered=true,note=5" : {
+            "model": "block/missingno"
+        },"instrument=bass,powered=true,note=6" : {
+            "model": "block/missingno"
+        },"instrument=bass,powered=true,note=7" : {
+            "model": "block/missingno"
+        },"instrument=bass,powered=true,note=8" : {
+            "model": "block/missingno"
+        },"instrument=bass,powered=true,note=9" : {
+            "model": "block/missingno"
+        },"instrument=bass,powered=true,note=10" : {
+            "model": "block/missingno"
+        },"instrument=bass,powered=true,note=11" : {
+            "model": "block/missingno"
+        },"instrument=bass,powered=true,note=12" : {
+            "model": "block/missingno"
+        },"instrument=bass,powered=true,note=13" : {
+            "model": "block/missingno"
+        },"instrument=bass,powered=true,note=14" : {
+            "model": "block/missingno"
+        },"instrument=bass,powered=true,note=15" : {
+            "model": "block/missingno"
+        },"instrument=bass,powered=true,note=16" : {
+            "model": "block/missingno"
+        },"instrument=bass,powered=true,note=17" : {
+            "model": "block/missingno"
+        },"instrument=bass,powered=true,note=18" : {
+            "model": "block/missingno"
+        },"instrument=bass,powered=true,note=19" : {
+            "model": "block/missingno"
+        },"instrument=bass,powered=true,note=20" : {
+            "model": "block/missingno"
+        },"instrument=bass,powered=true,note=21" : {
+            "model": "block/missingno"
+        },"instrument=bass,powered=true,note=22" : {
+            "model": "block/missingno"
+        },"instrument=bass,powered=true,note=23" : {
+            "model": "block/missingno"
+        },"instrument=bass,powered=true,note=24" : {
+            "model": "block/missingno"
+        },
+        
+        "instrument=bell,powered=false,note=0" : {
+            "model": "block/missingno"
+        },"instrument=bell,powered=false,note=1" : {
+            "model": "block/missingno"
+        },"instrument=bell,powered=false,note=2" : {
+            "model": "block/missingno"
+        },"instrument=bell,powered=false,note=3" : {
+            "model": "block/missingno"
+        },"instrument=bell,powered=false,note=4" : {
+            "model": "block/missingno"
+        },"instrument=bell,powered=false,note=5" : {
+            "model": "block/missingno"
+        },"instrument=bell,powered=false,note=6" : {
+            "model": "block/missingno"
+        },"instrument=bell,powered=false,note=7" : {
+            "model": "block/missingno"
+        },"instrument=bell,powered=false,note=8" : {
+            "model": "block/missingno"
+        },"instrument=bell,powered=false,note=9" : {
+            "model": "block/missingno"
+        },"instrument=bell,powered=false,note=10" : {
+            "model": "block/missingno"
+        },"instrument=bell,powered=false,note=11" : {
+            "model": "block/missingno"
+        },"instrument=bell,powered=false,note=12" : {
+            "model": "block/missingno"
+        },"instrument=bell,powered=false,note=13" : {
+            "model": "block/missingno"
+        },"instrument=bell,powered=false,note=14" : {
+            "model": "block/missingno"
+        },"instrument=bell,powered=false,note=15" : {
+            "model": "block/missingno"
+        },"instrument=bell,powered=false,note=16" : {
+            "model": "block/missingno"
+        },"instrument=bell,powered=false,note=17" : {
+            "model": "block/missingno"
+        },"instrument=bell,powered=false,note=18" : {
+            "model": "block/missingno"
+        },"instrument=bell,powered=false,note=19" : {
+            "model": "block/missingno"
+        },"instrument=bell,powered=false,note=20" : {
+            "model": "block/missingno"
+        },"instrument=bell,powered=false,note=21" : {
+            "model": "block/missingno"
+        },"instrument=bell,powered=false,note=22" : {
+            "model": "block/missingno"
+        },"instrument=bell,powered=false,note=23" : {
+            "model": "block/missingno"
+        },"instrument=bell,powered=false,note=24" : {
+            "model": "block/missingno"
+        },
+        "instrument=bell,powered=true,note=0" : {
+            "model": "block/missingno"
+        },"instrument=bell,powered=true,note=1" : {
+            "model": "block/missingno"
+        },"instrument=bell,powered=true,note=2" : {
+            "model": "block/missingno"
+        },"instrument=bell,powered=true,note=3" : {
+            "model": "block/missingno"
+        },"instrument=bell,powered=true,note=4" : {
+            "model": "block/missingno"
+        },"instrument=bell,powered=true,note=5" : {
+            "model": "block/missingno"
+        },"instrument=bell,powered=true,note=6" : {
+            "model": "block/missingno"
+        },"instrument=bell,powered=true,note=7" : {
+            "model": "block/missingno"
+        },"instrument=bell,powered=true,note=8" : {
+            "model": "block/missingno"
+        },"instrument=bell,powered=true,note=9" : {
+            "model": "block/missingno"
+        },"instrument=bell,powered=true,note=10" : {
+            "model": "block/missingno"
+        },"instrument=bell,powered=true,note=11" : {
+            "model": "block/missingno"
+        },"instrument=bell,powered=true,note=12" : {
+            "model": "block/missingno"
+        },"instrument=bell,powered=true,note=13" : {
+            "model": "block/missingno"
+        },"instrument=bell,powered=true,note=14" : {
+            "model": "block/missingno"
+        },"instrument=bell,powered=true,note=15" : {
+            "model": "block/missingno"
+        },"instrument=bell,powered=true,note=16" : {
+            "model": "block/missingno"
+        },"instrument=bell,powered=true,note=17" : {
+            "model": "block/missingno"
+        },"instrument=bell,powered=true,note=18" : {
+            "model": "block/missingno"
+        },"instrument=bell,powered=true,note=19" : {
+            "model": "block/missingno"
+        },"instrument=bell,powered=true,note=20" : {
+            "model": "block/missingno"
+        },"instrument=bell,powered=true,note=21" : {
+            "model": "block/missingno"
+        },"instrument=bell,powered=true,note=22" : {
+            "model": "block/missingno"
+        },"instrument=bell,powered=true,note=23" : {
+            "model": "block/missingno"
+        },"instrument=bell,powered=true,note=24" : {
+            "model": "block/missingno"
+        },
+        
+        "instrument=bit,powered=false,note=0" : {
+            "model": "block/missingno"
+        },"instrument=bit,powered=false,note=1" : {
+            "model": "block/missingno"
+        },"instrument=bit,powered=false,note=2" : {
+            "model": "block/missingno"
+        },"instrument=bit,powered=false,note=3" : {
+            "model": "block/missingno"
+        },"instrument=bit,powered=false,note=4" : {
+            "model": "block/missingno"
+        },"instrument=bit,powered=false,note=5" : {
+            "model": "block/missingno"
+        },"instrument=bit,powered=false,note=6" : {
+            "model": "block/missingno"
+        },"instrument=bit,powered=false,note=7" : {
+            "model": "block/missingno"
+        },"instrument=bit,powered=false,note=8" : {
+            "model": "block/missingno"
+        },"instrument=bit,powered=false,note=9" : {
+            "model": "block/missingno"
+        },"instrument=bit,powered=false,note=10" : {
+            "model": "block/missingno"
+        },"instrument=bit,powered=false,note=11" : {
+            "model": "block/missingno"
+        },"instrument=bit,powered=false,note=12" : {
+            "model": "block/missingno"
+        },"instrument=bit,powered=false,note=13" : {
+            "model": "block/missingno"
+        },"instrument=bit,powered=false,note=14" : {
+            "model": "block/missingno"
+        },"instrument=bit,powered=false,note=15" : {
+            "model": "block/missingno"
+        },"instrument=bit,powered=false,note=16" : {
+            "model": "block/missingno"
+        },"instrument=bit,powered=false,note=17" : {
+            "model": "block/missingno"
+        },"instrument=bit,powered=false,note=18" : {
+            "model": "block/missingno"
+        },"instrument=bit,powered=false,note=19" : {
+            "model": "block/missingno"
+        },"instrument=bit,powered=false,note=20" : {
+            "model": "block/missingno"
+        },"instrument=bit,powered=false,note=21" : {
+            "model": "block/missingno"
+        },"instrument=bit,powered=false,note=22" : {
+            "model": "block/missingno"
+        },"instrument=bit,powered=false,note=23" : {
+            "model": "block/missingno"
+        },"instrument=bit,powered=false,note=24" : {
+            "model": "block/missingno"
+        },
+        "instrument=bit,powered=true,note=0" : {
+            "model": "block/missingno"
+        },"instrument=bit,powered=true,note=1" : {
+            "model": "block/missingno"
+        },"instrument=bit,powered=true,note=2" : {
+            "model": "block/missingno"
+        },"instrument=bit,powered=true,note=3" : {
+            "model": "block/missingno"
+        },"instrument=bit,powered=true,note=4" : {
+            "model": "block/missingno"
+        },"instrument=bit,powered=true,note=5" : {
+            "model": "block/missingno"
+        },"instrument=bit,powered=true,note=6" : {
+            "model": "block/missingno"
+        },"instrument=bit,powered=true,note=7" : {
+            "model": "block/missingno"
+        },"instrument=bit,powered=true,note=8" : {
+            "model": "block/missingno"
+        },"instrument=bit,powered=true,note=9" : {
+            "model": "block/missingno"
+        },"instrument=bit,powered=true,note=10" : {
+            "model": "block/missingno"
+        },"instrument=bit,powered=true,note=11" : {
+            "model": "block/missingno"
+        },"instrument=bit,powered=true,note=12" : {
+            "model": "block/missingno"
+        },"instrument=bit,powered=true,note=13" : {
+            "model": "block/missingno"
+        },"instrument=bit,powered=true,note=14" : {
+            "model": "block/missingno"
+        },"instrument=bit,powered=true,note=15" : {
+            "model": "block/missingno"
+        },"instrument=bit,powered=true,note=16" : {
+            "model": "block/missingno"
+        },"instrument=bit,powered=true,note=17" : {
+            "model": "block/missingno"
+        },"instrument=bit,powered=true,note=18" : {
+            "model": "block/missingno"
+        },"instrument=bit,powered=true,note=19" : {
+            "model": "block/missingno"
+        },"instrument=bit,powered=true,note=20" : {
+            "model": "block/missingno"
+        },"instrument=bit,powered=true,note=21" : {
+            "model": "block/missingno"
+        },"instrument=bit,powered=true,note=22" : {
+            "model": "block/missingno"
+        },"instrument=bit,powered=true,note=23" : {
+            "model": "block/missingno"
+        },"instrument=bit,powered=true,note=24" : {
+            "model": "block/missingno"
+        },
+        
+        "instrument=chime,powered=false,note=0" : {
+            "model": "block/missingno"
+        },"instrument=chime,powered=false,note=1" : {
+            "model": "block/missingno"
+        },"instrument=chime,powered=false,note=2" : {
+            "model": "block/missingno"
+        },"instrument=chime,powered=false,note=3" : {
+            "model": "block/missingno"
+        },"instrument=chime,powered=false,note=4" : {
+            "model": "block/missingno"
+        },"instrument=chime,powered=false,note=5" : {
+            "model": "block/missingno"
+        },"instrument=chime,powered=false,note=6" : {
+            "model": "block/missingno"
+        },"instrument=chime,powered=false,note=7" : {
+            "model": "block/missingno"
+        },"instrument=chime,powered=false,note=8" : {
+            "model": "block/missingno"
+        },"instrument=chime,powered=false,note=9" : {
+            "model": "block/missingno"
+        },"instrument=chime,powered=false,note=10" : {
+            "model": "block/missingno"
+        },"instrument=chime,powered=false,note=11" : {
+            "model": "block/missingno"
+        },"instrument=chime,powered=false,note=12" : {
+            "model": "block/missingno"
+        },"instrument=chime,powered=false,note=13" : {
+            "model": "block/missingno"
+        },"instrument=chime,powered=false,note=14" : {
+            "model": "block/missingno"
+        },"instrument=chime,powered=false,note=15" : {
+            "model": "block/missingno"
+        },"instrument=chime,powered=false,note=16" : {
+            "model": "block/missingno"
+        },"instrument=chime,powered=false,note=17" : {
+            "model": "block/missingno"
+        },"instrument=chime,powered=false,note=18" : {
+            "model": "block/missingno"
+        },"instrument=chime,powered=false,note=19" : {
+            "model": "block/missingno"
+        },"instrument=chime,powered=false,note=20" : {
+            "model": "block/missingno"
+        },"instrument=chime,powered=false,note=21" : {
+            "model": "block/missingno"
+        },"instrument=chime,powered=false,note=22" : {
+            "model": "block/missingno"
+        },"instrument=chime,powered=false,note=23" : {
+            "model": "block/missingno"
+        },"instrument=chime,powered=false,note=24" : {
+            "model": "block/missingno"
+        },
+        "instrument=chime,powered=true,note=0" : {
+            "model": "block/missingno"
+        },"instrument=chime,powered=true,note=1" : {
+            "model": "block/missingno"
+        },"instrument=chime,powered=true,note=2" : {
+            "model": "block/missingno"
+        },"instrument=chime,powered=true,note=3" : {
+            "model": "block/missingno"
+        },"instrument=chime,powered=true,note=4" : {
+            "model": "block/missingno"
+        },"instrument=chime,powered=true,note=5" : {
+            "model": "block/missingno"
+        },"instrument=chime,powered=true,note=6" : {
+            "model": "block/missingno"
+        },"instrument=chime,powered=true,note=7" : {
+            "model": "block/missingno"
+        },"instrument=chime,powered=true,note=8" : {
+            "model": "block/missingno"
+        },"instrument=chime,powered=true,note=9" : {
+            "model": "block/missingno"
+        },"instrument=chime,powered=true,note=10" : {
+            "model": "block/missingno"
+        },"instrument=chime,powered=true,note=11" : {
+            "model": "block/missingno"
+        },"instrument=chime,powered=true,note=12" : {
+            "model": "block/missingno"
+        },"instrument=chime,powered=true,note=13" : {
+            "model": "block/missingno"
+        },"instrument=chime,powered=true,note=14" : {
+            "model": "block/missingno"
+        },"instrument=chime,powered=true,note=15" : {
+            "model": "block/missingno"
+        },"instrument=chime,powered=true,note=16" : {
+            "model": "block/missingno"
+        },"instrument=chime,powered=true,note=17" : {
+            "model": "block/missingno"
+        },"instrument=chime,powered=true,note=18" : {
+            "model": "block/missingno"
+        },"instrument=chime,powered=true,note=19" : {
+            "model": "block/missingno"
+        },"instrument=chime,powered=true,note=20" : {
+            "model": "block/missingno"
+        },"instrument=chime,powered=true,note=21" : {
+            "model": "block/missingno"
+        },"instrument=chime,powered=true,note=22" : {
+            "model": "block/missingno"
+        },"instrument=chime,powered=true,note=23" : {
+            "model": "block/missingno"
+        },"instrument=chime,powered=true,note=24" : {
+            "model": "block/missingno"
+        },
+        
+        "instrument=cow_bell,powered=false,note=0" : {
+            "model": "block/missingno"
+        },"instrument=cow_bell,powered=false,note=1" : {
+            "model": "block/missingno"
+        },"instrument=cow_bell,powered=false,note=2" : {
+            "model": "block/missingno"
+        },"instrument=cow_bell,powered=false,note=3" : {
+            "model": "block/missingno"
+        },"instrument=cow_bell,powered=false,note=4" : {
+            "model": "block/missingno"
+        },"instrument=cow_bell,powered=false,note=5" : {
+            "model": "block/missingno"
+        },"instrument=cow_bell,powered=false,note=6" : {
+            "model": "block/missingno"
+        },"instrument=cow_bell,powered=false,note=7" : {
+            "model": "block/missingno"
+        },"instrument=cow_bell,powered=false,note=8" : {
+            "model": "block/missingno"
+        },"instrument=cow_bell,powered=false,note=9" : {
+            "model": "block/missingno"
+        },"instrument=cow_bell,powered=false,note=10" : {
+            "model": "block/missingno"
+        },"instrument=cow_bell,powered=false,note=11" : {
+            "model": "block/missingno"
+        },"instrument=cow_bell,powered=false,note=12" : {
+            "model": "block/missingno"
+        },"instrument=cow_bell,powered=false,note=13" : {
+            "model": "block/missingno"
+        },"instrument=cow_bell,powered=false,note=14" : {
+            "model": "block/missingno"
+        },"instrument=cow_bell,powered=false,note=15" : {
+            "model": "block/missingno"
+        },"instrument=cow_bell,powered=false,note=16" : {
+            "model": "block/missingno"
+        },"instrument=cow_bell,powered=false,note=17" : {
+            "model": "block/missingno"
+        },"instrument=cow_bell,powered=false,note=18" : {
+            "model": "block/missingno"
+        },"instrument=cow_bell,powered=false,note=19" : {
+            "model": "block/missingno"
+        },"instrument=cow_bell,powered=false,note=20" : {
+            "model": "block/missingno"
+        },"instrument=cow_bell,powered=false,note=21" : {
+            "model": "block/missingno"
+        },"instrument=cow_bell,powered=false,note=22" : {
+            "model": "block/missingno"
+        },"instrument=cow_bell,powered=false,note=23" : {
+            "model": "block/missingno"
+        },"instrument=cow_bell,powered=false,note=24" : {
+            "model": "block/missingno"
+        },
+        "instrument=cow_bell,powered=true,note=0" : {
+            "model": "block/missingno"
+        },"instrument=cow_bell,powered=true,note=1" : {
+            "model": "block/missingno"
+        },"instrument=cow_bell,powered=true,note=2" : {
+            "model": "block/missingno"
+        },"instrument=cow_bell,powered=true,note=3" : {
+            "model": "block/missingno"
+        },"instrument=cow_bell,powered=true,note=4" : {
+            "model": "block/missingno"
+        },"instrument=cow_bell,powered=true,note=5" : {
+            "model": "block/missingno"
+        },"instrument=cow_bell,powered=true,note=6" : {
+            "model": "block/missingno"
+        },"instrument=cow_bell,powered=true,note=7" : {
+            "model": "block/missingno"
+        },"instrument=cow_bell,powered=true,note=8" : {
+            "model": "block/missingno"
+        },"instrument=cow_bell,powered=true,note=9" : {
+            "model": "block/missingno"
+        },"instrument=cow_bell,powered=true,note=10" : {
+            "model": "block/missingno"
+        },"instrument=cow_bell,powered=true,note=11" : {
+            "model": "block/missingno"
+        },"instrument=cow_bell,powered=true,note=12" : {
+            "model": "block/missingno"
+        },"instrument=cow_bell,powered=true,note=13" : {
+            "model": "block/missingno"
+        },"instrument=cow_bell,powered=true,note=14" : {
+            "model": "block/missingno"
+        },"instrument=cow_bell,powered=true,note=15" : {
+            "model": "block/missingno"
+        },"instrument=cow_bell,powered=true,note=16" : {
+            "model": "block/missingno"
+        },"instrument=cow_bell,powered=true,note=17" : {
+            "model": "block/missingno"
+        },"instrument=cow_bell,powered=true,note=18" : {
+            "model": "block/missingno"
+        },"instrument=cow_bell,powered=true,note=19" : {
+            "model": "block/missingno"
+        },"instrument=cow_bell,powered=true,note=20" : {
+            "model": "block/missingno"
+        },"instrument=cow_bell,powered=true,note=21" : {
+            "model": "block/missingno"
+        },"instrument=cow_bell,powered=true,note=22" : {
+            "model": "block/missingno"
+        },"instrument=cow_bell,powered=true,note=23" : {
+            "model": "block/missingno"
+        },"instrument=cow_bell,powered=true,note=24" : {
+            "model": "block/missingno"
+        },
+        
+        "instrument=didgeridoo,powered=false,note=0" : {
+            "model": "block/missingno"
+        },"instrument=didgeridoo,powered=false,note=1" : {
+            "model": "block/missingno"
+        },"instrument=didgeridoo,powered=false,note=2" : {
+            "model": "block/missingno"
+        },"instrument=didgeridoo,powered=false,note=3" : {
+            "model": "block/missingno"
+        },"instrument=didgeridoo,powered=false,note=4" : {
+            "model": "block/missingno"
+        },"instrument=didgeridoo,powered=false,note=5" : {
+            "model": "block/missingno"
+        },"instrument=didgeridoo,powered=false,note=6" : {
+            "model": "block/missingno"
+        },"instrument=didgeridoo,powered=false,note=7" : {
+            "model": "block/missingno"
+        },"instrument=didgeridoo,powered=false,note=8" : {
+            "model": "block/missingno"
+        },"instrument=didgeridoo,powered=false,note=9" : {
+            "model": "block/missingno"
+        },"instrument=didgeridoo,powered=false,note=10" : {
+            "model": "block/missingno"
+        },"instrument=didgeridoo,powered=false,note=11" : {
+            "model": "block/missingno"
+        },"instrument=didgeridoo,powered=false,note=12" : {
+            "model": "block/missingno"
+        },"instrument=didgeridoo,powered=false,note=13" : {
+            "model": "block/missingno"
+        },"instrument=didgeridoo,powered=false,note=14" : {
+            "model": "block/missingno"
+        },"instrument=didgeridoo,powered=false,note=15" : {
+            "model": "block/missingno"
+        },"instrument=didgeridoo,powered=false,note=16" : {
+            "model": "block/missingno"
+        },"instrument=didgeridoo,powered=false,note=17" : {
+            "model": "block/missingno"
+        },"instrument=didgeridoo,powered=false,note=18" : {
+            "model": "block/missingno"
+        },"instrument=didgeridoo,powered=false,note=19" : {
+            "model": "block/missingno"
+        },"instrument=didgeridoo,powered=false,note=20" : {
+            "model": "block/missingno"
+        },"instrument=didgeridoo,powered=false,note=21" : {
+            "model": "block/missingno"
+        },"instrument=didgeridoo,powered=false,note=22" : {
+            "model": "block/missingno"
+        },"instrument=didgeridoo,powered=false,note=23" : {
+            "model": "block/missingno"
+        },"instrument=didgeridoo,powered=false,note=24" : {
+            "model": "block/missingno"
+        },
+        "instrument=didgeridoo,powered=true,note=0" : {
+            "model": "block/missingno"
+        },"instrument=didgeridoo,powered=true,note=1" : {
+            "model": "block/missingno"
+        },"instrument=didgeridoo,powered=true,note=2" : {
+            "model": "block/missingno"
+        },"instrument=didgeridoo,powered=true,note=3" : {
+            "model": "block/missingno"
+        },"instrument=didgeridoo,powered=true,note=4" : {
+            "model": "block/missingno"
+        },"instrument=didgeridoo,powered=true,note=5" : {
+            "model": "block/missingno"
+        },"instrument=didgeridoo,powered=true,note=6" : {
+            "model": "block/missingno"
+        },"instrument=didgeridoo,powered=true,note=7" : {
+            "model": "block/missingno"
+        },"instrument=didgeridoo,powered=true,note=8" : {
+            "model": "block/missingno"
+        },"instrument=didgeridoo,powered=true,note=9" : {
+            "model": "block/missingno"
+        },"instrument=didgeridoo,powered=true,note=10" : {
+            "model": "block/missingno"
+        },"instrument=didgeridoo,powered=true,note=11" : {
+            "model": "block/missingno"
+        },"instrument=didgeridoo,powered=true,note=12" : {
+            "model": "block/missingno"
+        },"instrument=didgeridoo,powered=true,note=13" : {
+            "model": "block/missingno"
+        },"instrument=didgeridoo,powered=true,note=14" : {
+            "model": "block/missingno"
+        },"instrument=didgeridoo,powered=true,note=15" : {
+            "model": "block/missingno"
+        },"instrument=didgeridoo,powered=true,note=16" : {
+            "model": "block/missingno"
+        },"instrument=didgeridoo,powered=true,note=17" : {
+            "model": "block/missingno"
+        },"instrument=didgeridoo,powered=true,note=18" : {
+            "model": "block/missingno"
+        },"instrument=didgeridoo,powered=true,note=19" : {
+            "model": "block/missingno"
+        },"instrument=didgeridoo,powered=true,note=20" : {
+            "model": "block/missingno"
+        },"instrument=didgeridoo,powered=true,note=21" : {
+            "model": "block/missingno"
+        },"instrument=didgeridoo,powered=true,note=22" : {
+            "model": "block/missingno"
+        },"instrument=didgeridoo,powered=true,note=23" : {
+            "model": "block/missingno"
+        },"instrument=didgeridoo,powered=true,note=24" : {
+            "model": "block/missingno"
+        },
+        
+        "instrument=flute,powered=false,note=0" : {
+            "model": "block/missingno"
+        },"instrument=flute,powered=false,note=1" : {
+            "model": "block/missingno"
+        },"instrument=flute,powered=false,note=2" : {
+            "model": "block/missingno"
+        },"instrument=flute,powered=false,note=3" : {
+            "model": "block/missingno"
+        },"instrument=flute,powered=false,note=4" : {
+            "model": "block/missingno"
+        },"instrument=flute,powered=false,note=5" : {
+            "model": "block/missingno"
+        },"instrument=flute,powered=false,note=6" : {
+            "model": "block/missingno"
+        },"instrument=flute,powered=false,note=7" : {
+            "model": "block/missingno"
+        },"instrument=flute,powered=false,note=8" : {
+            "model": "block/missingno"
+        },"instrument=flute,powered=false,note=9" : {
+            "model": "block/missingno"
+        },"instrument=flute,powered=false,note=10" : {
+            "model": "block/missingno"
+        },"instrument=flute,powered=false,note=11" : {
+            "model": "block/missingno"
+        },"instrument=flute,powered=false,note=12" : {
+            "model": "block/missingno"
+        },"instrument=flute,powered=false,note=13" : {
+            "model": "block/missingno"
+        },"instrument=flute,powered=false,note=14" : {
+            "model": "block/missingno"
+        },"instrument=flute,powered=false,note=15" : {
+            "model": "block/missingno"
+        },"instrument=flute,powered=false,note=16" : {
+            "model": "block/missingno"
+        },"instrument=flute,powered=false,note=17" : {
+            "model": "block/missingno"
+        },"instrument=flute,powered=false,note=18" : {
+            "model": "block/missingno"
+        },"instrument=flute,powered=false,note=19" : {
+            "model": "block/missingno"
+        },"instrument=flute,powered=false,note=20" : {
+            "model": "block/missingno"
+        },"instrument=flute,powered=false,note=21" : {
+            "model": "block/missingno"
+        },"instrument=flute,powered=false,note=22" : {
+            "model": "block/missingno"
+        },"instrument=flute,powered=false,note=23" : {
+            "model": "block/missingno"
+        },"instrument=flute,powered=false,note=24" : {
+            "model": "block/missingno"
+        },
+        "instrument=flute,powered=true,note=0" : {
+            "model": "block/missingno"
+        },"instrument=flute,powered=true,note=1" : {
+            "model": "block/missingno"
+        },"instrument=flute,powered=true,note=2" : {
+            "model": "block/missingno"
+        },"instrument=flute,powered=true,note=3" : {
+            "model": "block/missingno"
+        },"instrument=flute,powered=true,note=4" : {
+            "model": "block/missingno"
+        },"instrument=flute,powered=true,note=5" : {
+            "model": "block/missingno"
+        },"instrument=flute,powered=true,note=6" : {
+            "model": "block/missingno"
+        },"instrument=flute,powered=true,note=7" : {
+            "model": "block/missingno"
+        },"instrument=flute,powered=true,note=8" : {
+            "model": "block/missingno"
+        },"instrument=flute,powered=true,note=9" : {
+            "model": "block/missingno"
+        },"instrument=flute,powered=true,note=10" : {
+            "model": "block/missingno"
+        },"instrument=flute,powered=true,note=11" : {
+            "model": "block/missingno"
+        },"instrument=flute,powered=true,note=12" : {
+            "model": "block/missingno"
+        },"instrument=flute,powered=true,note=13" : {
+            "model": "block/missingno"
+        },"instrument=flute,powered=true,note=14" : {
+            "model": "block/missingno"
+        },"instrument=flute,powered=true,note=15" : {
+            "model": "block/missingno"
+        },"instrument=flute,powered=true,note=16" : {
+            "model": "block/missingno"
+        },"instrument=flute,powered=true,note=17" : {
+            "model": "block/missingno"
+        },"instrument=flute,powered=true,note=18" : {
+            "model": "block/missingno"
+        },"instrument=flute,powered=true,note=19" : {
+            "model": "block/missingno"
+        },"instrument=flute,powered=true,note=20" : {
+            "model": "block/missingno"
+        },"instrument=flute,powered=true,note=21" : {
+            "model": "block/missingno"
+        },"instrument=flute,powered=true,note=22" : {
+            "model": "block/missingno"
+        },"instrument=flute,powered=true,note=23" : {
+            "model": "block/missingno"
+        },"instrument=flute,powered=true,note=24" : {
+            "model": "block/missingno"
+        },
+        
+        "instrument=guitar,powered=false,note=0" : {
+            "model": "block/missingno"
+        },"instrument=guitar,powered=false,note=1" : {
+            "model": "block/missingno"
+        },"instrument=guitar,powered=false,note=2" : {
+            "model": "block/missingno"
+        },"instrument=guitar,powered=false,note=3" : {
+            "model": "block/missingno"
+        },"instrument=guitar,powered=false,note=4" : {
+            "model": "block/missingno"
+        },"instrument=guitar,powered=false,note=5" : {
+            "model": "block/missingno"
+        },"instrument=guitar,powered=false,note=6" : {
+            "model": "block/missingno"
+        },"instrument=guitar,powered=false,note=7" : {
+            "model": "block/missingno"
+        },"instrument=guitar,powered=false,note=8" : {
+            "model": "block/missingno"
+        },"instrument=guitar,powered=false,note=9" : {
+            "model": "block/missingno"
+        },"instrument=guitar,powered=false,note=10" : {
+            "model": "block/missingno"
+        },"instrument=guitar,powered=false,note=11" : {
+            "model": "block/missingno"
+        },"instrument=guitar,powered=false,note=12" : {
+            "model": "block/missingno"
+        },"instrument=guitar,powered=false,note=13" : {
+            "model": "block/missingno"
+        },"instrument=guitar,powered=false,note=14" : {
+            "model": "block/missingno"
+        },"instrument=guitar,powered=false,note=15" : {
+            "model": "block/missingno"
+        },"instrument=guitar,powered=false,note=16" : {
+            "model": "block/missingno"
+        },"instrument=guitar,powered=false,note=17" : {
+            "model": "block/missingno"
+        },"instrument=guitar,powered=false,note=18" : {
+            "model": "block/missingno"
+        },"instrument=guitar,powered=false,note=19" : {
+            "model": "block/missingno"
+        },"instrument=guitar,powered=false,note=20" : {
+            "model": "block/missingno"
+        },"instrument=guitar,powered=false,note=21" : {
+            "model": "block/missingno"
+        },"instrument=guitar,powered=false,note=22" : {
+            "model": "block/missingno"
+        },"instrument=guitar,powered=false,note=23" : {
+            "model": "block/missingno"
+        },"instrument=guitar,powered=false,note=24" : {
+            "model": "block/missingno"
+        },
+        "instrument=guitar,powered=true,note=0" : {
+            "model": "block/missingno"
+        },"instrument=guitar,powered=true,note=1" : {
+            "model": "block/missingno"
+        },"instrument=guitar,powered=true,note=2" : {
+            "model": "block/missingno"
+        },"instrument=guitar,powered=true,note=3" : {
+            "model": "block/missingno"
+        },"instrument=guitar,powered=true,note=4" : {
+            "model": "block/missingno"
+        },"instrument=guitar,powered=true,note=5" : {
+            "model": "block/missingno"
+        },"instrument=guitar,powered=true,note=6" : {
+            "model": "block/missingno"
+        },"instrument=guitar,powered=true,note=7" : {
+            "model": "block/missingno"
+        },"instrument=guitar,powered=true,note=8" : {
+            "model": "block/missingno"
+        },"instrument=guitar,powered=true,note=9" : {
+            "model": "block/missingno"
+        },"instrument=guitar,powered=true,note=10" : {
+            "model": "block/missingno"
+        },"instrument=guitar,powered=true,note=11" : {
+            "model": "block/missingno"
+        },"instrument=guitar,powered=true,note=12" : {
+            "model": "block/missingno"
+        },"instrument=guitar,powered=true,note=13" : {
+            "model": "block/missingno"
+        },"instrument=guitar,powered=true,note=14" : {
+            "model": "block/missingno"
+        },"instrument=guitar,powered=true,note=15" : {
+            "model": "block/missingno"
+        },"instrument=guitar,powered=true,note=16" : {
+            "model": "block/missingno"
+        },"instrument=guitar,powered=true,note=17" : {
+            "model": "block/missingno"
+        },"instrument=guitar,powered=true,note=18" : {
+            "model": "block/missingno"
+        },"instrument=guitar,powered=true,note=19" : {
+            "model": "block/missingno"
+        },"instrument=guitar,powered=true,note=20" : {
+            "model": "block/missingno"
+        },"instrument=guitar,powered=true,note=21" : {
+            "model": "block/missingno"
+        },"instrument=guitar,powered=true,note=22" : {
+            "model": "block/missingno"
+        },"instrument=guitar,powered=true,note=23" : {
+            "model": "block/missingno"
+        },"instrument=guitar,powered=true,note=24" : {
+            "model": "block/missingno"
+        },
+        
+        "instrument=harp,powered=false,note=0" : {
+            "model": "block/missingno"
+        },"instrument=harp,powered=false,note=1" : {
+            "model": "block/missingno"
+        },"instrument=harp,powered=false,note=2" : {
+            "model": "block/missingno"
+        },"instrument=harp,powered=false,note=3" : {
+            "model": "block/missingno"
+        },"instrument=harp,powered=false,note=4" : {
+            "model": "block/missingno"
+        },"instrument=harp,powered=false,note=5" : {
+            "model": "block/missingno"
+        },"instrument=harp,powered=false,note=6" : {
+            "model": "block/missingno"
+        },"instrument=harp,powered=false,note=7" : {
+            "model": "block/missingno"
+        },"instrument=harp,powered=false,note=8" : {
+            "model": "block/missingno"
+        },"instrument=harp,powered=false,note=9" : {
+            "model": "block/missingno"
+        },"instrument=harp,powered=false,note=10" : {
+            "model": "block/missingno"
+        },"instrument=harp,powered=false,note=11" : {
+            "model": "block/missingno"
+        },"instrument=harp,powered=false,note=12" : {
+            "model": "block/missingno"
+        },"instrument=harp,powered=false,note=13" : {
+            "model": "block/missingno"
+        },"instrument=harp,powered=false,note=14" : {
+            "model": "block/missingno"
+        },"instrument=harp,powered=false,note=15" : {
+            "model": "block/missingno"
+        },"instrument=harp,powered=false,note=16" : {
+            "model": "block/missingno"
+        },"instrument=harp,powered=false,note=17" : {
+            "model": "block/missingno"
+        },"instrument=harp,powered=false,note=18" : {
+            "model": "block/missingno"
+        },"instrument=harp,powered=false,note=19" : {
+            "model": "block/missingno"
+        },"instrument=harp,powered=false,note=20" : {
+            "model": "block/missingno"
+        },"instrument=harp,powered=false,note=21" : {
+            "model": "block/missingno"
+        },"instrument=harp,powered=false,note=22" : {
+            "model": "block/missingno"
+        },"instrument=harp,powered=false,note=23" : {
+            "model": "block/missingno"
+        },"instrument=harp,powered=false,note=24" : {
+            "model": "block/missingno"
+        },
+        "instrument=harp,powered=true,note=0" : {
+            "model": "block/missingno"
+        },"instrument=harp,powered=true,note=1" : {
+            "model": "block/missingno"
+        },"instrument=harp,powered=true,note=2" : {
+            "model": "block/missingno"
+        },"instrument=harp,powered=true,note=3" : {
+            "model": "block/missingno"
+        },"instrument=harp,powered=true,note=4" : {
+            "model": "block/missingno"
+        },"instrument=harp,powered=true,note=5" : {
+            "model": "block/missingno"
+        },"instrument=harp,powered=true,note=6" : {
+            "model": "block/missingno"
+        },"instrument=harp,powered=true,note=7" : {
+            "model": "block/missingno"
+        },"instrument=harp,powered=true,note=8" : {
+            "model": "block/missingno"
+        },"instrument=harp,powered=true,note=9" : {
+            "model": "block/missingno"
+        },"instrument=harp,powered=true,note=10" : {
+            "model": "block/missingno"
+        },"instrument=harp,powered=true,note=11" : {
+            "model": "block/missingno"
+        },"instrument=harp,powered=true,note=12" : {
+            "model": "block/missingno"
+        },"instrument=harp,powered=true,note=13" : {
+            "model": "block/missingno"
+        },"instrument=harp,powered=true,note=14" : {
+            "model": "block/missingno"
+        },"instrument=harp,powered=true,note=15" : {
+            "model": "block/missingno"
+        },"instrument=harp,powered=true,note=16" : {
+            "model": "block/missingno"
+        },"instrument=harp,powered=true,note=17" : {
+            "model": "block/missingno"
+        },"instrument=harp,powered=true,note=18" : {
+            "model": "block/missingno"
+        },"instrument=harp,powered=true,note=19" : {
+            "model": "block/missingno"
+        },"instrument=harp,powered=true,note=20" : {
+            "model": "block/missingno"
+        },"instrument=harp,powered=true,note=21" : {
+            "model": "block/missingno"
+        },"instrument=harp,powered=true,note=22" : {
+            "model": "block/missingno"
+        },"instrument=harp,powered=true,note=23" : {
+            "model": "block/missingno"
+        },"instrument=harp,powered=true,note=24" : {
+            "model": "block/missingno"
+        },
+        
+        "instrument=hat,powered=false,note=0" : {
+            "model": "block/missingno"
+        },"instrument=hat,powered=false,note=1" : {
+            "model": "block/missingno"
+        },"instrument=hat,powered=false,note=2" : {
+            "model": "block/missingno"
+        },"instrument=hat,powered=false,note=3" : {
+            "model": "block/missingno"
+        },"instrument=hat,powered=false,note=4" : {
+            "model": "block/missingno"
+        },"instrument=hat,powered=false,note=5" : {
+            "model": "block/missingno"
+        },"instrument=hat,powered=false,note=6" : {
+            "model": "block/missingno"
+        },"instrument=hat,powered=false,note=7" : {
+            "model": "block/missingno"
+        },"instrument=hat,powered=false,note=8" : {
+            "model": "block/missingno"
+        },"instrument=hat,powered=false,note=9" : {
+            "model": "block/missingno"
+        },"instrument=hat,powered=false,note=10" : {
+            "model": "block/missingno"
+        },"instrument=hat,powered=false,note=11" : {
+            "model": "block/missingno"
+        },"instrument=hat,powered=false,note=12" : {
+            "model": "block/missingno"
+        },"instrument=hat,powered=false,note=13" : {
+            "model": "block/missingno"
+        },"instrument=hat,powered=false,note=14" : {
+            "model": "block/missingno"
+        },"instrument=hat,powered=false,note=15" : {
+            "model": "block/missingno"
+        },"instrument=hat,powered=false,note=16" : {
+            "model": "block/missingno"
+        },"instrument=hat,powered=false,note=17" : {
+            "model": "block/missingno"
+        },"instrument=hat,powered=false,note=18" : {
+            "model": "block/missingno"
+        },"instrument=hat,powered=false,note=19" : {
+            "model": "block/missingno"
+        },"instrument=hat,powered=false,note=20" : {
+            "model": "block/missingno"
+        },"instrument=hat,powered=false,note=21" : {
+            "model": "block/missingno"
+        },"instrument=hat,powered=false,note=22" : {
+            "model": "block/missingno"
+        },"instrument=hat,powered=false,note=23" : {
+            "model": "block/missingno"
+        },"instrument=hat,powered=false,note=24" : {
+            "model": "block/missingno"
+        },
+        "instrument=hat,powered=true,note=0" : {
+            "model": "block/missingno"
+        },"instrument=hat,powered=true,note=1" : {
+            "model": "block/missingno"
+        },"instrument=hat,powered=true,note=2" : {
+            "model": "block/missingno"
+        },"instrument=hat,powered=true,note=3" : {
+            "model": "block/missingno"
+        },"instrument=hat,powered=true,note=4" : {
+            "model": "block/missingno"
+        },"instrument=hat,powered=true,note=5" : {
+            "model": "block/missingno"
+        },"instrument=hat,powered=true,note=6" : {
+            "model": "block/missingno"
+        },"instrument=hat,powered=true,note=7" : {
+            "model": "block/missingno"
+        },"instrument=hat,powered=true,note=8" : {
+            "model": "block/missingno"
+        },"instrument=hat,powered=true,note=9" : {
+            "model": "block/missingno"
+        },"instrument=hat,powered=true,note=10" : {
+            "model": "block/missingno"
+        },"instrument=hat,powered=true,note=11" : {
+            "model": "block/missingno"
+        },"instrument=hat,powered=true,note=12" : {
+            "model": "block/missingno"
+        },"instrument=hat,powered=true,note=13" : {
+            "model": "block/missingno"
+        },"instrument=hat,powered=true,note=14" : {
+            "model": "block/missingno"
+        },"instrument=hat,powered=true,note=15" : {
+            "model": "block/missingno"
+        },"instrument=hat,powered=true,note=16" : {
+            "model": "block/missingno"
+        },"instrument=hat,powered=true,note=17" : {
+            "model": "block/missingno"
+        },"instrument=hat,powered=true,note=18" : {
+            "model": "block/missingno"
+        },"instrument=hat,powered=true,note=19" : {
+            "model": "block/missingno"
+        },"instrument=hat,powered=true,note=20" : {
+            "model": "block/missingno"
+        },"instrument=hat,powered=true,note=21" : {
+            "model": "block/missingno"
+        },"instrument=hat,powered=true,note=22" : {
+            "model": "block/missingno"
+        },"instrument=hat,powered=true,note=23" : {
+            "model": "block/missingno"
+        },"instrument=hat,powered=true,note=24" : {
+            "model": "block/missingno"
+        },
+        
+        "instrument=iron_xylophone,powered=false,note=0" : {
+            "model": "block/missingno"
+        },"instrument=iron_xylophone,powered=false,note=1" : {
+            "model": "block/missingno"
+        },"instrument=iron_xylophone,powered=false,note=2" : {
+            "model": "block/missingno"
+        },"instrument=iron_xylophone,powered=false,note=3" : {
+            "model": "block/missingno"
+        },"instrument=iron_xylophone,powered=false,note=4" : {
+            "model": "block/missingno"
+        },"instrument=iron_xylophone,powered=false,note=5" : {
+            "model": "block/missingno"
+        },"instrument=iron_xylophone,powered=false,note=6" : {
+            "model": "block/missingno"
+        },"instrument=iron_xylophone,powered=false,note=7" : {
+            "model": "block/missingno"
+        },"instrument=iron_xylophone,powered=false,note=8" : {
+            "model": "block/missingno"
+        },"instrument=iron_xylophone,powered=false,note=9" : {
+            "model": "block/missingno"
+        },"instrument=iron_xylophone,powered=false,note=10" : {
+            "model": "block/missingno"
+        },"instrument=iron_xylophone,powered=false,note=11" : {
+            "model": "block/missingno"
+        },"instrument=iron_xylophone,powered=false,note=12" : {
+            "model": "block/missingno"
+        },"instrument=iron_xylophone,powered=false,note=13" : {
+            "model": "block/missingno"
+        },"instrument=iron_xylophone,powered=false,note=14" : {
+            "model": "block/missingno"
+        },"instrument=iron_xylophone,powered=false,note=15" : {
+            "model": "block/missingno"
+        },"instrument=iron_xylophone,powered=false,note=16" : {
+            "model": "block/missingno"
+        },"instrument=iron_xylophone,powered=false,note=17" : {
+            "model": "block/missingno"
+        },"instrument=iron_xylophone,powered=false,note=18" : {
+            "model": "block/missingno"
+        },"instrument=iron_xylophone,powered=false,note=19" : {
+            "model": "block/missingno"
+        },"instrument=iron_xylophone,powered=false,note=20" : {
+            "model": "block/missingno"
+        },"instrument=iron_xylophone,powered=false,note=21" : {
+            "model": "block/missingno"
+        },"instrument=iron_xylophone,powered=false,note=22" : {
+            "model": "block/missingno"
+        },"instrument=iron_xylophone,powered=false,note=23" : {
+            "model": "block/missingno"
+        },"instrument=iron_xylophone,powered=false,note=24" : {
+            "model": "block/missingno"
+        },
+        "instrument=iron_xylophone,powered=true,note=0" : {
+            "model": "block/missingno"
+        },"instrument=iron_xylophone,powered=true,note=1" : {
+            "model": "block/missingno"
+        },"instrument=iron_xylophone,powered=true,note=2" : {
+            "model": "block/missingno"
+        },"instrument=iron_xylophone,powered=true,note=3" : {
+            "model": "block/missingno"
+        },"instrument=iron_xylophone,powered=true,note=4" : {
+            "model": "block/missingno"
+        },"instrument=iron_xylophone,powered=true,note=5" : {
+            "model": "block/missingno"
+        },"instrument=iron_xylophone,powered=true,note=6" : {
+            "model": "block/missingno"
+        },"instrument=iron_xylophone,powered=true,note=7" : {
+            "model": "block/missingno"
+        },"instrument=iron_xylophone,powered=true,note=8" : {
+            "model": "block/missingno"
+        },"instrument=iron_xylophone,powered=true,note=9" : {
+            "model": "block/missingno"
+        },"instrument=iron_xylophone,powered=true,note=10" : {
+            "model": "block/missingno"
+        },"instrument=iron_xylophone,powered=true,note=11" : {
+            "model": "block/missingno"
+        },"instrument=iron_xylophone,powered=true,note=12" : {
+            "model": "block/missingno"
+        },"instrument=iron_xylophone,powered=true,note=13" : {
+            "model": "block/missingno"
+        },"instrument=iron_xylophone,powered=true,note=14" : {
+            "model": "block/missingno"
+        },"instrument=iron_xylophone,powered=true,note=15" : {
+            "model": "block/missingno"
+        },"instrument=iron_xylophone,powered=true,note=16" : {
+            "model": "block/missingno"
+        },"instrument=iron_xylophone,powered=true,note=17" : {
+            "model": "block/missingno"
+        },"instrument=iron_xylophone,powered=true,note=18" : {
+            "model": "block/missingno"
+        },"instrument=iron_xylophone,powered=true,note=19" : {
+            "model": "block/missingno"
+        },"instrument=iron_xylophone,powered=true,note=20" : {
+            "model": "block/missingno"
+        },"instrument=iron_xylophone,powered=true,note=21" : {
+            "model": "block/missingno"
+        },"instrument=iron_xylophone,powered=true,note=22" : {
+            "model": "block/missingno"
+        },"instrument=iron_xylophone,powered=true,note=23" : {
+            "model": "block/missingno"
+        },"instrument=iron_xylophone,powered=true,note=24" : {
+            "model": "block/missingno"
+        },
+        
+        "instrument=pling,powered=false,note=0" : {
+            "model": "block/missingno"
+        },"instrument=pling,powered=false,note=1" : {
+            "model": "block/missingno"
+        },"instrument=pling,powered=false,note=2" : {
+            "model": "block/missingno"
+        },"instrument=pling,powered=false,note=3" : {
+            "model": "block/missingno"
+        },"instrument=pling,powered=false,note=4" : {
+            "model": "block/missingno"
+        },"instrument=pling,powered=false,note=5" : {
+            "model": "block/missingno"
+        },"instrument=pling,powered=false,note=6" : {
+            "model": "block/missingno"
+        },"instrument=pling,powered=false,note=7" : {
+            "model": "block/missingno"
+        },"instrument=pling,powered=false,note=8" : {
+            "model": "block/missingno"
+        },"instrument=pling,powered=false,note=9" : {
+            "model": "block/missingno"
+        },"instrument=pling,powered=false,note=10" : {
+            "model": "block/missingno"
+        },"instrument=pling,powered=false,note=11" : {
+            "model": "block/missingno"
+        },"instrument=pling,powered=false,note=12" : {
+            "model": "block/missingno"
+        },"instrument=pling,powered=false,note=13" : {
+            "model": "block/missingno"
+        },"instrument=pling,powered=false,note=14" : {
+            "model": "block/missingno"
+        },"instrument=pling,powered=false,note=15" : {
+            "model": "block/missingno"
+        },"instrument=pling,powered=false,note=16" : {
+            "model": "block/missingno"
+        },"instrument=pling,powered=false,note=17" : {
+            "model": "block/missingno"
+        },"instrument=pling,powered=false,note=18" : {
+            "model": "block/missingno"
+        },"instrument=pling,powered=false,note=19" : {
+            "model": "block/missingno"
+        },"instrument=pling,powered=false,note=20" : {
+            "model": "block/missingno"
+        },"instrument=pling,powered=false,note=21" : {
+            "model": "block/missingno"
+        },"instrument=pling,powered=false,note=22" : {
+            "model": "block/missingno"
+        },"instrument=pling,powered=false,note=23" : {
+            "model": "block/missingno"
+        },"instrument=pling,powered=false,note=24" : {
+            "model": "block/missingno"
+        },
+        "instrument=pling,powered=true,note=0" : {
+            "model": "block/missingno"
+        },"instrument=pling,powered=true,note=1" : {
+            "model": "block/missingno"
+        },"instrument=pling,powered=true,note=2" : {
+            "model": "block/missingno"
+        },"instrument=pling,powered=true,note=3" : {
+            "model": "block/missingno"
+        },"instrument=pling,powered=true,note=4" : {
+            "model": "block/missingno"
+        },"instrument=pling,powered=true,note=5" : {
+            "model": "block/missingno"
+        },"instrument=pling,powered=true,note=6" : {
+            "model": "block/missingno"
+        },"instrument=pling,powered=true,note=7" : {
+            "model": "block/missingno"
+        },"instrument=pling,powered=true,note=8" : {
+            "model": "block/missingno"
+        },"instrument=pling,powered=true,note=9" : {
+            "model": "block/missingno"
+        },"instrument=pling,powered=true,note=10" : {
+            "model": "block/missingno"
+        },"instrument=pling,powered=true,note=11" : {
+            "model": "block/missingno"
+        },"instrument=pling,powered=true,note=12" : {
+            "model": "block/missingno"
+        },"instrument=pling,powered=true,note=13" : {
+            "model": "block/missingno"
+        },"instrument=pling,powered=true,note=14" : {
+            "model": "block/missingno"
+        },"instrument=pling,powered=true,note=15" : {
+            "model": "block/missingno"
+        },"instrument=pling,powered=true,note=16" : {
+            "model": "block/missingno"
+        },"instrument=pling,powered=true,note=17" : {
+            "model": "block/missingno"
+        },"instrument=pling,powered=true,note=18" : {
+            "model": "block/missingno"
+        },"instrument=pling,powered=true,note=19" : {
+            "model": "block/missingno"
+        },"instrument=pling,powered=true,note=20" : {
+            "model": "block/missingno"
+        },"instrument=pling,powered=true,note=21" : {
+            "model": "block/missingno"
+        },"instrument=pling,powered=true,note=22" : {
+            "model": "block/missingno"
+        },"instrument=pling,powered=true,note=23" : {
+            "model": "block/missingno"
+        },"instrument=pling,powered=true,note=24" : {
+            "model": "block/missingno"
+        },
+        
+        "instrument=snare,powered=false,note=0" : {
+            "model": "block/missingno"
+        },"instrument=snare,powered=false,note=1" : {
+            "model": "block/missingno"
+        },"instrument=snare,powered=false,note=2" : {
+            "model": "block/missingno"
+        },"instrument=snare,powered=false,note=3" : {
+            "model": "block/missingno"
+        },"instrument=snare,powered=false,note=4" : {
+            "model": "block/missingno"
+        },"instrument=snare,powered=false,note=5" : {
+            "model": "block/missingno"
+        },"instrument=snare,powered=false,note=6" : {
+            "model": "block/missingno"
+        },"instrument=snare,powered=false,note=7" : {
+            "model": "block/missingno"
+        },"instrument=snare,powered=false,note=8" : {
+            "model": "block/missingno"
+        },"instrument=snare,powered=false,note=9" : {
+            "model": "block/missingno"
+        },"instrument=snare,powered=false,note=10" : {
+            "model": "block/missingno"
+        },"instrument=snare,powered=false,note=11" : {
+            "model": "block/missingno"
+        },"instrument=snare,powered=false,note=12" : {
+            "model": "block/missingno"
+        },"instrument=snare,powered=false,note=13" : {
+            "model": "block/missingno"
+        },"instrument=snare,powered=false,note=14" : {
+            "model": "block/missingno"
+        },"instrument=snare,powered=false,note=15" : {
+            "model": "block/missingno"
+        },"instrument=snare,powered=false,note=16" : {
+            "model": "block/missingno"
+        },"instrument=snare,powered=false,note=17" : {
+            "model": "block/missingno"
+        },"instrument=snare,powered=false,note=18" : {
+            "model": "block/missingno"
+        },"instrument=snare,powered=false,note=19" : {
+            "model": "block/missingno"
+        },"instrument=snare,powered=false,note=20" : {
+            "model": "block/missingno"
+        },"instrument=snare,powered=false,note=21" : {
+            "model": "block/missingno"
+        },"instrument=snare,powered=false,note=22" : {
+            "model": "block/missingno"
+        },"instrument=snare,powered=false,note=23" : {
+            "model": "block/missingno"
+        },"instrument=snare,powered=false,note=24" : {
+            "model": "block/missingno"
+        },
+        "instrument=snare,powered=true,note=0" : {
+            "model": "block/missingno"
+        },"instrument=snare,powered=true,note=1" : {
+            "model": "block/missingno"
+        },"instrument=snare,powered=true,note=2" : {
+            "model": "block/missingno"
+        },"instrument=snare,powered=true,note=3" : {
+            "model": "block/missingno"
+        },"instrument=snare,powered=true,note=4" : {
+            "model": "block/missingno"
+        },"instrument=snare,powered=true,note=5" : {
+            "model": "block/missingno"
+        },"instrument=snare,powered=true,note=6" : {
+            "model": "block/missingno"
+        },"instrument=snare,powered=true,note=7" : {
+            "model": "block/missingno"
+        },"instrument=snare,powered=true,note=8" : {
+            "model": "block/missingno"
+        },"instrument=snare,powered=true,note=9" : {
+            "model": "block/missingno"
+        },"instrument=snare,powered=true,note=10" : {
+            "model": "block/missingno"
+        },"instrument=snare,powered=true,note=11" : {
+            "model": "block/missingno"
+        },"instrument=snare,powered=true,note=12" : {
+            "model": "block/missingno"
+        },"instrument=snare,powered=true,note=13" : {
+            "model": "block/missingno"
+        },"instrument=snare,powered=true,note=14" : {
+            "model": "block/missingno"
+        },"instrument=snare,powered=true,note=15" : {
+            "model": "block/missingno"
+        },"instrument=snare,powered=true,note=16" : {
+            "model": "block/missingno"
+        },"instrument=snare,powered=true,note=17" : {
+            "model": "block/missingno"
+        },"instrument=snare,powered=true,note=18" : {
+            "model": "block/missingno"
+        },"instrument=snare,powered=true,note=19" : {
+            "model": "block/missingno"
+        },"instrument=snare,powered=true,note=20" : {
+            "model": "block/missingno"
+        },"instrument=snare,powered=true,note=21" : {
+            "model": "block/missingno"
+        },"instrument=snare,powered=true,note=22" : {
+            "model": "block/missingno"
+        },"instrument=snare,powered=true,note=23" : {
+            "model": "block/missingno"
+        },"instrument=snare,powered=true,note=24" : {
+            "model": "block/missingno"
+        },
+        
+        "instrument=xylophone,powered=false,note=0" : {
+            "model": "block/missingno"
+        },"instrument=xylophone,powered=false,note=1" : {
+            "model": "block/missingno"
+        },"instrument=xylophone,powered=false,note=2" : {
+            "model": "block/missingno"
+        },"instrument=xylophone,powered=false,note=3" : {
+            "model": "block/missingno"
+        },"instrument=xylophone,powered=false,note=4" : {
+            "model": "block/missingno"
+        },"instrument=xylophone,powered=false,note=5" : {
+            "model": "block/missingno"
+        },"instrument=xylophone,powered=false,note=6" : {
+            "model": "block/missingno"
+        },"instrument=xylophone,powered=false,note=7" : {
+            "model": "block/missingno"
+        },"instrument=xylophone,powered=false,note=8" : {
+            "model": "block/missingno"
+        },"instrument=xylophone,powered=false,note=9" : {
+            "model": "block/missingno"
+        },"instrument=xylophone,powered=false,note=10" : {
+            "model": "block/missingno"
+        },"instrument=xylophone,powered=false,note=11" : {
+            "model": "block/missingno"
+        },"instrument=xylophone,powered=false,note=12" : {
+            "model": "block/missingno"
+        },"instrument=xylophone,powered=false,note=13" : {
+            "model": "block/missingno"
+        },"instrument=xylophone,powered=false,note=14" : {
+            "model": "block/missingno"
+        },"instrument=xylophone,powered=false,note=15" : {
+            "model": "block/missingno"
+        },"instrument=xylophone,powered=false,note=16" : {
+            "model": "block/missingno"
+        },"instrument=xylophone,powered=false,note=17" : {
+            "model": "block/missingno"
+        },"instrument=xylophone,powered=false,note=18" : {
+            "model": "block/missingno"
+        },"instrument=xylophone,powered=false,note=19" : {
+            "model": "block/missingno"
+        },"instrument=xylophone,powered=false,note=20" : {
+            "model": "block/missingno"
+        },"instrument=xylophone,powered=false,note=21" : {
+            "model": "block/missingno"
+        },"instrument=xylophone,powered=false,note=22" : {
+            "model": "block/missingno"
+        },"instrument=xylophone,powered=false,note=23" : {
+            "model": "block/missingno"
+        },"instrument=xylophone,powered=false,note=24" : {
+            "model": "block/missingno"
+        },
+        "instrument=xylophone,powered=true,note=0" : {
+            "model": "block/missingno"
+        },"instrument=xylophone,powered=true,note=1" : {
+            "model": "block/missingno"
+        },"instrument=xylophone,powered=true,note=2" : {
+            "model": "block/missingno"
+        },"instrument=xylophone,powered=true,note=3" : {
+            "model": "block/missingno"
+        },"instrument=xylophone,powered=true,note=4" : {
+            "model": "block/missingno"
+        },"instrument=xylophone,powered=true,note=5" : {
+            "model": "block/missingno"
+        },"instrument=xylophone,powered=true,note=6" : {
+            "model": "block/missingno"
+        },"instrument=xylophone,powered=true,note=7" : {
+            "model": "block/missingno"
+        },"instrument=xylophone,powered=true,note=8" : {
+            "model": "block/missingno"
+        },"instrument=xylophone,powered=true,note=9" : {
+            "model": "block/missingno"
+        },"instrument=xylophone,powered=true,note=10" : {
+            "model": "block/missingno"
+        },"instrument=xylophone,powered=true,note=11" : {
+            "model": "block/missingno"
+        },"instrument=xylophone,powered=true,note=12" : {
+            "model": "block/missingno"
+        },"instrument=xylophone,powered=true,note=13" : {
+            "model": "block/missingno"
+        },"instrument=xylophone,powered=true,note=14" : {
+            "model": "block/missingno"
+        },"instrument=xylophone,powered=true,note=15" : {
+            "model": "block/missingno"
+        },"instrument=xylophone,powered=true,note=16" : {
+            "model": "block/missingno"
+        },"instrument=xylophone,powered=true,note=17" : {
+            "model": "block/missingno"
+        },"instrument=xylophone,powered=true,note=18" : {
+            "model": "block/missingno"
+        },"instrument=xylophone,powered=true,note=19" : {
+            "model": "block/missingno"
+        },"instrument=xylophone,powered=true,note=20" : {
+            "model": "block/missingno"
+        },"instrument=xylophone,powered=true,note=21" : {
+            "model": "block/missingno"
+        },"instrument=xylophone,powered=true,note=22" : {
+            "model": "block/missingno"
+        },"instrument=xylophone,powered=true,note=23" : {
+            "model": "block/missingno"
+        },"instrument=xylophone,powered=true,note=24" : {
+            "model": "block/missingno"
+        }
+    }
+}

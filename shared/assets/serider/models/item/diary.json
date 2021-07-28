@@ -1,0 +1,7 @@
+{
+  "parent": "serider:generated",
+  "textures": {
+    "layer0": "serider:item/diary",
+    "layer1": "serider:item/diary_overlay" 
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "serider:generated",
+  "textures": {
+    "layer0": "serider:item/wither_star",
+    "layer1": "serider:item/glass_overlay"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "block/andesite_slab"
+    },
+    "type=double,waterlogged=false": {
+      "model": "serider:block/smooth_andesite"
+    },
+    "type=double,waterlogged=true": {
+      "model": "block/missingno"
+    },
+    "type=top": {
+      "model": "block/andesite_slab_top"
+    }
+  }
+}

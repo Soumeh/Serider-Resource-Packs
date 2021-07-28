@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "block/purpur_slab"
+    },
+    "type=double,waterlogged=false": {
+      "model": "block/missingno"
+    },
+    "type=double,waterlogged=true": {
+      "model": "block/missingno"
+    },
+    "type=top": {
+      "model": "block/purpur_slab_top"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+	"parent": "entity/player/head",
+	"textures": {
+		"skin": "entity/alex",
+		"particle": "block/soul_sand"
+	}
+}

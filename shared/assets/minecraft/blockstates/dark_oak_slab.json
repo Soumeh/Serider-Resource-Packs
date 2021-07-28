@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "block/dark_oak_slab"
+    },
+    "type=double,waterlogged=false": {
+      "model": "serider:block/dark_oak_crate"
+    },
+    "type=double,waterlogged=true": {
+      "model": "block/missingno"
+    },
+    "type=top": {
+      "model": "block/dark_oak_slab_top"
+    }
+  }
+}

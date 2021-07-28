@@ -1,0 +1,6 @@
+{
+    "parent": "serider:cube_all",
+    "textures": {
+        "all": "serider:block/mossy_polished_smooth_stone_bricks"
+    }
+}

@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "block/cut_sandstone_slab"
+    },
+    "type=double,waterlogged=false": {
+      "model": "serider:block/polished_sandstone_bricks"
+    },
+    "type=double,waterlogged=true": {
+      "model": "block/missingno"
+    },
+    "type=top": {
+      "model": "block/cut_sandstone_slab_top"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "serider:block/polished_smooth_stone_slab"
+    },
+    "type=double,waterlogged=false": {
+      "model": "block/smooth_stone_slab_double"
+    },
+    "type=double,waterlogged=true": {
+      "model": "block/missingno"
+    },
+    "type=top": {
+      "model": "serider:block/polished_smooth_stone_slab_top"
+    }
+  }
+}

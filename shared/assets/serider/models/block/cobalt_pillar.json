@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_column",
+  "textures": {
+    "end": "serider:block/cobalt_pillar_top",
+    "side": "serider:block/cobalt_pillar_side"
+  }
+}

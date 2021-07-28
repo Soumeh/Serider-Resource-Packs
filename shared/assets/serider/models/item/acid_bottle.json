@@ -1,0 +1,7 @@
+{
+    "parent": "serider:generated",
+    "textures": {
+      "layer0": "item/potion_overlay",
+      "layer1": "serider:item/acid_bottle" 
+    }
+}

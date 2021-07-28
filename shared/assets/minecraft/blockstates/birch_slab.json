@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "block/birch_slab"
+    },
+    "type=double,waterlogged=false": {
+      "model": "serider:block/birch_crate"
+    },
+    "type=double,waterlogged=true": {
+      "model": "block/missingno"
+    },
+    "type=top": {
+      "model": "block/birch_slab_top"
+    }
+  }
+}

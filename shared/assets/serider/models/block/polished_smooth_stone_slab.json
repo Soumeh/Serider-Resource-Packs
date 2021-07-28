@@ -1,0 +1,8 @@
+{
+    "parent": "block/slab",
+    "textures": {
+      "bottom": "serider:block/polished_smooth_stone",
+      "top": "serider:block/polished_smooth_stone",
+      "side": "block/smooth_stone_slab_side"
+    }
+}

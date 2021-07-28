@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "block/polished_diorite_slab"
+    },
+    "type=double,waterlogged=false": {
+      "model": "serider:block/polished_diorite_bricks"
+    },
+    "type=double,waterlogged=true": {
+      "model": "block/missingno"
+    },
+    "type=top": {
+      "model": "block/polished_diorite_slab_top"
+    }
+  }
+}

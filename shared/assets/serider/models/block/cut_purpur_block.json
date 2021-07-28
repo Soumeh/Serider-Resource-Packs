@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_column",
+  "textures": {
+    "end": "serider:block/polished_purpur_block",
+    "side": "serider:block/cut_purpur_block"
+  }
+}

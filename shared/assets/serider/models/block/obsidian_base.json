@@ -1,0 +1,8 @@
+{
+	"parent": "serider:base",
+	"texture_size": [128, 64],
+	"textures": {
+		"base": "entity/beacon",
+		"particle": "block/obsidian"
+	}
+}

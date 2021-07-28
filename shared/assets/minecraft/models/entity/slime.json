@@ -1,0 +1,125 @@
+{
+	"texture_size": [64, 32],
+	"textures": {
+		"slime": "entity/slime/slime",
+		"particle": "item/slime_ball"
+	},
+	"elements": [
+		{
+			"name": "armor",
+			"from": [4, 0, 4],
+			"to": [12, 8, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 8, 7]},
+			"faces": {
+				"north": {"uv": [2, 4, 4, 8], "texture": "#slime"},
+				"east": {"uv": [0, 4, 2, 8], "texture": "#slime"},
+				"south": {"uv": [6, 4, 8, 8], "texture": "#slime"},
+				"west": {"uv": [4, 4, 6, 8], "texture": "#slime"},
+				"up": {"uv": [2, 0, 4, 4], "texture": "#slime"},
+				"down": {"uv": [4, 0, 6, 4], "texture": "#slime"}
+			}
+		},
+		{
+			"from": [5, 1, 5],
+			"to": [11, 7, 11],
+			"faces": {
+				"north": {"uv": [1.5, 11, 3, 14], "texture": "#slime"},
+				"east": {"uv": [0, 11, 1.5, 14], "texture": "#slime"},
+				"south": {"uv": [4.5, 11, 6, 14], "texture": "#slime"},
+				"west": {"uv": [3, 11, 4.5, 14], "texture": "#slime"},
+				"up": {"uv": [1.5, 8, 3, 11], "texture": "#slime"},
+				"down": {"uv": [3, 8, 4.5, 11], "texture": "#slime"}
+			}
+		},
+		{
+			"name": "left",
+			"from": [4.7, 4, 4.5],
+			"to": [6.7, 6, 6.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [13.5, 12, 13]},
+			"faces": {
+				"north": {"uv": [8.5, 3, 9, 4], "texture": "#slime"},
+				"east": {"uv": [8, 3, 8.5, 4], "texture": "#slime"},
+				"south": {"uv": [9.5, 3, 10, 4], "texture": "#slime"},
+				"west": {"uv": [9, 3, 9.5, 4], "texture": "#slime"},
+				"up": {"uv": [8.5, 2, 9, 3], "texture": "#slime"},
+				"down": {"uv": [9, 2, 9.5, 3], "texture": "#slime"}
+			}
+		},
+		{
+			"name": "right",
+			"from": [9.3, 4, 4.5],
+			"to": [11.3, 6, 6.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [18.5, 12, 13]},
+			"faces": {
+				"north": {"uv": [8.5, 1, 9, 2], "texture": "#slime"},
+				"east": {"uv": [8, 1, 8.5, 2], "texture": "#slime"},
+				"south": {"uv": [9.5, 1, 10, 2], "texture": "#slime"},
+				"west": {"uv": [9, 1, 9.5, 2], "texture": "#slime"},
+				"up": {"uv": [8.5, 0, 9, 1], "texture": "#slime"},
+				"down": {"uv": [9, 0, 9.5, 1], "texture": "#slime"}
+			}
+		},
+		{
+			"name": "mouth",
+			"from": [7, 2, 4.5],
+			"to": [8, 3, 5.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [15, 10, 12]},
+			"faces": {
+				"north": {"uv": [8.25, 4.5, 8.5, 5], "texture": "#slime"},
+				"east": {"uv": [8, 4.5, 8.25, 5], "texture": "#slime"},
+				"south": {"uv": [8.75, 4.5, 9, 5], "texture": "#slime"},
+				"west": {"uv": [8.5, 4.5, 8.75, 5], "texture": "#slime"},
+				"up": {"uv": [8.25, 4, 8.5, 4.5], "texture": "#slime"},
+				"down": {"uv": [8.5, 4, 8.75, 4.5], "texture": "#slime"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [75, 45, 0],
+			"translation": [0, 2.5, 1.5],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [75, 45, 0],
+			"translation": [0, 2.5, 1.5],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 112.5, 0],
+			"translation": [0, 4.5, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 112.5, 0],
+			"translation": [0, 4.5, 0]
+		},
+		"ground": {
+			"translation": [0, 5, 0]
+		},
+		"gui": {
+			"rotation": [30, -135, 0],
+			"translation": [0, 4.5, 0],
+			"scale": [1.15, 1.15, 1.15]
+		},
+		"head": {
+			"translation": [0, 9, 0],
+			"scale": [2.2, 2.2, 2.2]
+		},
+		"fixed": {
+			"translation": [0, 6, 0],
+			"scale": [1.5, 1.5, 1.5]
+		}
+	},
+	"groups": [
+		{
+			"name": "cube",
+			"origin": [8, 8, 8],
+			"children": [0, 1,
+				{
+					"name": "eyes",
+					"origin": [8, 8, 8],
+					"children": [2, 3]
+				}, 4]
+		}
+	]
+}

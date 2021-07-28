@@ -1,0 +1,6 @@
+{
+    "parent": "serider:item/template_gauntlet",
+    "textures": {
+        "texture": "serider:item/glowing_obsidian_gauntlet"
+    }
+}

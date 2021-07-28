@@ -1,0 +1,11 @@
+{
+  "parent": "item/stick",
+  "textures": {
+    "layer0": "item/arrow"
+  },
+  "display": {
+    "head": {
+      "rotation": [45, -90, 0]
+    }
+  }
+}

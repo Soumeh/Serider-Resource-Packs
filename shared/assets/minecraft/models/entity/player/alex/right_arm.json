@@ -1,0 +1,64 @@
+{
+	"texture_size": [64, 64],
+	"textures": {
+		"skin": "entity/alex",
+		"particle": "block/soul_sand"
+	},
+	"elements": [
+		{
+			"from": [5, 0, 6],
+			"to": [8, 12, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 6, 8]},
+			"faces": {
+				"north": {"uv": [11, 5, 11.75, 8], "texture": "#skin"},
+				"east": {"uv": [10, 5, 11, 8], "texture": "#skin"},
+				"south": {"uv": [12.75, 5, 13.5, 8], "texture": "#skin"},
+				"west": {"uv": [11.75, 5, 12.75, 8], "texture": "#skin"},
+				"up": {"uv": [11, 4, 11.75, 5], "rotation": 180, "texture": "#skin"},
+				"down": {"uv": [11.75, 4, 12.5, 5], "texture": "#skin"}
+			}
+		},
+		{
+			"name": "layer",
+			"from": [4.5, -0.5, 5.5],
+			"to": [8.51, 12.51, 10.51],
+			"rotation": {"angle": 0, "axis": "y", "origin": [6, 6, 8]},
+			"faces": {
+				"north": {"uv": [11, 9, 11.75, 12], "texture": "#skin"},
+				"east": {"uv": [10, 9, 11, 12], "texture": "#skin"},
+				"south": {"uv": [12.75, 9, 13.5, 12], "texture": "#skin"},
+				"west": {"uv": [11.75, 9, 12.75, 12], "texture": "#skin"},
+				"up": {"uv": [11, 8, 11.75, 9], "rotation": 180, "texture": "#skin"},
+				"down": {"uv": [11.75, 8, 12.5, 9], "texture": "#skin"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [90, 0, 0],
+			"translation": [1, -2, 8]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [90, 0, 0],
+			"translation": [1, -2, 8]
+		},
+		"firstperson_righthand": {
+			"rotation": [135, -12, 16],
+			"translation": [-4, 3, 6],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"firstperson_lefthand": {
+			"rotation": [135, -12, 16],
+			"translation": [-4, 3, 6],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"ground": {
+			"translation": [0, 2, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"head": {
+			"rotation": [-180, 0, 0],
+			"scale": [1.6, 1.6, 1.6]
+		}
+	}
+}

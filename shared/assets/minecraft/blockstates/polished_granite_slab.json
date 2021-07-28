@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "block/polished_granite_slab"
+    },
+    "type=double,waterlogged=false": {
+      "model": "serider:block/polished_granite_bricks"
+    },
+    "type=double,waterlogged=true": {
+      "model": "block/missingno"
+    },
+    "type=top": {
+      "model": "block/polished_granite_slab_top"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "block/diorite_slab"
+    },
+    "type=double,waterlogged=false": {
+      "model": "serider:block/smooth_diorite"
+    },
+    "type=double,waterlogged=true": {
+      "model": "block/missingno"
+    },
+    "type=top": {
+      "model": "block/diorite_slab_top"
+    }
+  }
+}

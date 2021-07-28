@@ -1,0 +1,7 @@
+{
+	"parent": "entity/player/right_leg",
+	"textures": {
+		"skin": "entity/alex",
+		"particle": "block/soul_sand"
+	}
+}
