@@ -71,7 +71,7 @@ If you need any help, contact Heapons or Soumeh.
 
 # **Third-Party Notice**
 - [Negative Space Font](https://github.com/AmberWat/NegativeSpaceFont)
-> Facilitates the making of custom gui.
+> Helps with making custom GUIs.
 - [FL Studio](https://www.image-line.com/fl-studio)
 > All of our music/samples have been produced with this DAW.
 > 
