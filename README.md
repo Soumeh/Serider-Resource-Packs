@@ -63,7 +63,7 @@ If you need any help, contact Heapons or Soumeh.
 > - [`jappa`](https://github.com/Serider-Minigames/Resource-Packs/tree/main/jappa)
 >   - JAPPA's Artstyle
 > - [`classic`](https://github.com/Serider-Minigames/Resource-Packs/tree/main/classic)
->   - Pre-1.13 Artstyle
+>   - Pre-1.14 Artstyle
 > - [`add-ons`](https://github.com/Serider-Minigames/Resource-Packs/tree/main/add-ons)
 >   - Vanilla Tweaks/Enhancements (JAPPA's Artstyle)
 
