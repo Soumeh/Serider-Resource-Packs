@@ -14,13 +14,6 @@
         "serider:records/jamies_name/18"
             ]
     },
-    "music_disc.jamies_name": {
-        "sounds": [
-        "serider:records/jamies_name/shulk",
-        "serider:records/jamies_name/pillaged",
-        "serider:records/jamies_name/18"
-            ]
-    },
     "original_soundtrack": {
         "sounds": [
         "serider:records/jamies_name/shulk",
