@@ -18,7 +18,7 @@
 
 > **If you have already read this, move over [here](READMETOO.md "Work In Progress")!**
 
-## ![Translate](translate.png)
+## ![Translate](translate.png "Translate")
 
 Want to help us translate the resource packs into a language that you know?
 We Have a GitLocalize page [here](https://gitlocalize.com/repo/6274) that you can use to easily translate the resource packs.
@@ -27,7 +27,7 @@ We Have a GitLocalize page [here](https://gitlocalize.com/repo/6274) that you ca
 
 Can't see the language that you want to translate to on the list? Create a [new issue](https://github.com/Serider-Minigames/Resource-Packs/issues/new?assignees=&labels=Translation+Request&template=translation-request.md&title=Add+%28language%29+as+a+new+language) or contact us on Discord.
 
-## ![How To Use](how_to_use.png)
+## ![How to Use](how_to_use.png "How to Use")
 
 > **Already know how to use GitHub? Move to the next section.**
 
@@ -44,7 +44,7 @@ To upload resources to the repository, there are a few Git clients that you can 
 
 To get started, create a [new fork](https://github.com/Serider-Minigames/Resource-Packs/fork) (a new version of the repository for yourself) and [clone the fork](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository) to your computer.
 
-## ![How To Help](how_to_help.png)
+## ![How to Help](how_to_help.png "How to Help")
 
 If you are uploading textures for a specific artstyle, put them in the correct path in the [`jappa`](https://github.com/Serider-Minigames/Resource-Packs/tree/main/jappa), [`classic`](https://github.com/Serider-Minigames/Resource-Packs/tree/main/classic) or other artstyle specific folders.
 
@@ -56,7 +56,7 @@ After uploading your resources, make sure to [commit your changes](https://docs.
 
 If you need any help, contact Heapons or Soumeh.
 
-## ![](folders.png "Folders")
+## ![Folders](folders.png "Folders")
 
 > - [`shared`](https://github.com/Serider-Minigames/Resource-Packs/tree/main/shared)
 >   - Shared Assets (Fonts, Models, Sounds, Etc.)
@@ -69,10 +69,9 @@ If you need any help, contact Heapons or Soumeh.
 
 > **Want to add your own artstyle? Put any of your textures inside of a new folder named after the style.**
 
-# **Third-Party Notice**
-- [Negative Space Font](https://github.com/AmberWat/NegativeSpaceFont)
-> Helps with making custom GUIs.
-- [FL Studio](https://www.image-line.com/fl-studio)
-> All of our music/samples have been produced with this DAW.
-> 
+# ![Third-Party Notices](third-party_notices.png "Third-Party Notices")
+
+> - [Negative Space Font](https://github.com/AmberWat/NegativeSpaceFont)
+>   - For making custom GUIs more easily.
+
 ###### Written by ![](https://minotar.net/helm/Soumeh/16) [**Soumeh**](https://github.com/Soumeh) & ![](https://minotar.net/helm/Heapons/16) [**Heapons**](https://github.com/Heapons); prettified by ![](https://minotar.net/helm/Heapons/16) [**Heapons**](https://github.com/Heapons); pimped out by ![](https://minotar.net/helm/Soumeh/16) [**Soumeh**](https://github.com/Soumeh).
