@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/pressure_plate_down_top",
+  "textures": {
+    "texture": "minecraft:block/polished_blackstone",
+    "textop": "minecraft:block/polished_blackstone_pressure_plate"
+  }
+}

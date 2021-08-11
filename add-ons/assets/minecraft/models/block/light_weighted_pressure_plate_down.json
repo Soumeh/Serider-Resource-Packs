@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/pressure_plate_down_top",
+  "textures": {
+    "texture": "minecraft:block/gold_block",
+    "textop": "minecraft:block/gold_pressure_plate"
+  }
+}
